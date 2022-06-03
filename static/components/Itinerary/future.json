@@ -7,15 +7,14 @@
             "date": "2022-06-20",
             "deadline": "None",
             "links": {
-                "In-person Hamilton 100": "",
-                "Quarantine Stream": "https://youtu.be/TnFg2hUteSM",
-                "Slides": "/static/slides/cl00-welcome.pdf"
+                "Zoom Link (TODO)": "",
+                "Slides (TODO)": ""
             }
         },
         {
             "kind": "LS",
             "n": 0,
-            "title": "Syllabus and Support - Due Weds 1/12 @ 11:59pm",
+            "title": "Syllabus and Support",
             "date": "2022-06-20",
             "deadline": "2022-06-21",
             "links": {
@@ -162,23 +161,7 @@
             }
         }
     ],
-    "2022-06-23": [
-        {
-            "kind": "QZ",
-            "n": 0,
-            "title": "Quiz 0",
-            "date": "2022-06-23",
-            "deadline": "2022-06-23",
-            "links": {
-                "What to expect and how to prepare?": "/resources/quiz-expectations.html",
-                "Review Question #1 - Numerical Expression": "https://youtu.be/ISP-9wkrlyM",
-                "Review Question #2 - Rational Expressions": "https://youtu.be/g8_OERDtJ8c",
-                "Review Question #3 - if-then-else Statements": "https://youtu.be/ruWo2zP9p4U",
-                "More Practice Questions": "/resources/practice/sp22/quiz0-worksheet.html",
-                "Covered Topics: Syllabus, Resources Page, Lessons 4 - 8": ""
-            }
-        }
-    ],
+    "2022-06-23": [],
     "2022-06-24": [
         {
             "kind": "CL",
@@ -247,6 +230,21 @@
         }
     ],
     "2022-06-28": [
+        {
+            "kind": "QZ",
+            "n": 0,
+            "title": "Quiz 0",
+            "date": "2022-06-28",
+            "deadline": "2022-06-28",
+            "links": {
+                "What to expect and how to prepare?": "/resources/quiz-expectations.html",
+                "Review Question #1 - Numerical Expression": "https://youtu.be/ISP-9wkrlyM",
+                "Review Question #2 - Rational Expressions": "https://youtu.be/g8_OERDtJ8c",
+                "Review Question #3 - if-then-else Statements": "https://youtu.be/ruWo2zP9p4U",
+                "More Practice Questions": "/resources/practice/sp22/quiz0-worksheet.html",
+                "Covered Topics: Syllabus, Resources Page, Lessons 4 - 8": ""
+            }
+        },
         {
             "kind": "CL",
             "n": 6,
@@ -342,21 +340,19 @@
                 "Recording Passcode: 8@e.caM#": "https://unc.zoom.us/rec/share/tiJrKXEoIlLRQWVoOvSap_Zho4gbQKVZBuOZV-UKmOvyP7vSLAfbb8Wm4k9DamnL.WMRkCWG1u__bPZZJ?startTime=1644363199000",
                 "Slides": "https://docs.google.com/presentation/d/1qb3dbSPHiWQMkJA_z-Yw40wTxGdDoSEvjcparFZ6OI8/edit?usp=sharing"
             }
+        },
+        {
+            "kind": "LS",
+            "n": 99,
+            "title": "Lists",
+            "date": "2022-06-30",
+            "deadline": "2022-07-01",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=uGsgE_EKI4U"
+            }
         }
     ],
     "2022-07-01": [
-        {
-            "kind": "QZ",
-            "n": 1,
-            "title": "Quiz 1",
-            "date": "2022-07-01",
-            "deadline": "2022-07-01",
-            "links": {
-                "Practice Questions": "/resources/practice/sp22/quiz1-worksheet.html",
-                "Practice Diagram #1": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U",
-                "Practice Diagram #2": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
-            }
-        },
         {
             "kind": "EX",
             "n": 4,
@@ -371,7 +367,20 @@
     "2022-07-02": [],
     "2022-07-03": [],
     "2022-07-04": [],
-    "2022-07-05": [],
+    "2022-07-05": [
+        {
+            "kind": "QZ",
+            "n": 1,
+            "title": "Quiz 1",
+            "date": "2022-07-05",
+            "deadline": "2022-07-05",
+            "links": {
+                "Practice Questions": "/resources/practice/sp22/quiz1-worksheet.html",
+                "Practice Diagram #1": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U",
+                "Practice Diagram #2": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
+            }
+        }
+    ],
     "2022-07-06": [],
     "2022-07-07": [],
     "2022-07-08": [],
@@ -396,16 +405,7 @@
     "2022-07-18": [],
     "2022-07-19": [],
     "2022-07-20": [],
-    "2022-07-21": [
-        {
-            "kind": "QZ",
-            "n": 3,
-            "title": "Quiz 3",
-            "date": "2022-07-21",
-            "deadline": "2022-07-21",
-            "links": {}
-        }
-    ],
+    "2022-07-21": [],
     "2022-07-25": [
         {
             "kind": "FN",
