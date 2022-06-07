@@ -13,22 +13,22 @@
         },
         {
             "kind": "LS",
-            "n": 0,
+            "n": 1,
             "title": "Syllabus and Support",
             "date": "2022-06-20",
             "deadline": "2022-06-21",
             "links": {
                 "1. Read the Syllabus": "/resources/syllabus.html",
                 "2. Read Support Resources": "/support",
-                "3. Complete Lesson 00 Responses on Gradescope": "https://www.gradescope.com/"
+                "3. Complete Lesson 01 Responses on Gradescope": "https://www.gradescope.com/"
             }
         },
         {
             "kind": "EX",
             "n": 0,
-            "title": "Hello World - Due Mon 1/17 @ 11:59pm",
+            "title": "Hello World - ",
             "date": "2022-06-20",
-            "deadline": "2022-06-21",
+            "deadline": "2022-06-22",
             "links": {
                 "Software Setup (1/3)": "/resources/setup/os-update.html",
                 "Software Setup (2/3)": "/resources/setup/software.html",
@@ -41,16 +41,16 @@
         {
             "kind": "CL",
             "n": 1,
-            "title": "Async Day - Submit Gradescope Responses by 1/14",
+            "title": "Submit Gradescope Responses by 6/22",
             "date": "2022-06-21",
             "deadline": "None",
             "links": {
-                "Watch Lessons 01 - 03 Below": ""
+                "Watch Lessons 02 - 06 Below": ""
             }
         },
         {
             "kind": "LS",
-            "n": 1,
+            "n": 2,
             "title": "Computer Systems - Processes, Shells, Kernels, and Hardware",
             "date": "2022-06-21",
             "deadline": "2022-06-22",
@@ -60,7 +60,7 @@
         },
         {
             "kind": "LS",
-            "n": 2,
+            "n": 3,
             "title": "Programs, Languages, and Interpreters",
             "date": "2022-06-21",
             "deadline": "2022-06-22",
@@ -70,7 +70,7 @@
         },
         {
             "kind": "LS",
-            "n": 3,
+            "n": 4,
             "title": "VSCode Walkthrough",
             "date": "2022-06-21",
             "deadline": "2022-06-22",
@@ -79,31 +79,21 @@
             }
         },
         {
-            "kind": "HW",
-            "n": 0,
-            "title": "Homework: Lessons 04 & 05 Due 1/17",
-            "date": "2022-06-21",
-            "deadline": "None",
-            "links": {
-                "Reat Lessons and Submit Responses on Gradescope": "https://gradescope.com"
-            }
-        },
-        {
             "kind": "LS",
-            "n": 4,
+            "n": 5,
             "title": "Objects and Data Types",
             "date": "2022-06-21",
-            "deadline": "2022-06-21",
+            "deadline": "2022-06-22",
             "links": {
                 "Read Lesson": "/lessons/objects-data-types.html"
             }
         },
         {
             "kind": "LS",
-            "n": 5,
+            "n": 6,
             "title": "Expressions",
             "date": "2022-06-21",
-            "deadline": "2022-06-21",
+            "deadline": "2022-06-22",
             "links": {
                 "Read Lesson": "/lessons/expressions.html"
             }
@@ -113,39 +103,21 @@
         {
             "kind": "CL",
             "n": 2,
-            "title": "Async Day - Submit Gradescope Responses by 1/19",
+            "title": "Submit Gradescope Responses by 6/23",
             "date": "2022-06-22",
             "deadline": "None",
             "links": {
-                "Watch Lessons Below": ""
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 6,
-            "title": "Variables and User Input",
-            "date": "2022-06-22",
-            "deadline": "2022-06-22",
-            "links": {
-                "Watch Lesson": "https://youtu.be/wXoUw0scEsI"
+                "Watch Lessons Below": "",
+                "Complete Challenge Questions 00-03": "",
+                "Start EX01 - Chardle": ""
             }
         },
         {
             "kind": "LS",
             "n": 7,
-            "title": "Environment Diagrams",
-            "date": "2022-06-22",
-            "deadline": "2022-06-22",
-            "links": {
-                "Watch Lesson": "https://youtu.be/Vfmuwx3vYKg"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 8,
             "title": "Conditional if-else Statements",
             "date": "2022-06-22",
-            "deadline": "2022-06-22",
+            "deadline": "2022-06-23",
             "links": {
                 "Watch Lesson": "https://youtu.be/JP5oFPHw5zc"
             }
@@ -153,7 +125,7 @@
         {
             "kind": "EX",
             "n": 1,
-            "title": "Chardle - Input, Variables, and Conditionals - Due Mon 1/24 @ 11:59pm",
+            "title": "Chardle - Input, Variables, and Conditionals - TODO",
             "date": "2022-06-22",
             "deadline": "2022-06-23",
             "links": {
@@ -161,46 +133,70 @@
             }
         }
     ],
-    "2022-06-23": [],
+    "2022-06-23": [
+        {
+            "kind": "CL",
+            "n": 3,
+            "title": "Submit Gradescope Responses by 6/24",
+            "date": "2022-06-23",
+            "deadline": "None",
+            "links": {
+                "Watch Lessons Below": "",
+                "Complete Challenge Questions 04-06": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 8,
+            "title": "while Loop Statements",
+            "date": "2022-06-23",
+            "deadline": "2022-06-24",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=pvpgvYlyfUU"
+            }
+        }
+    ],
     "2022-06-24": [
         {
             "kind": "CL",
             "n": 4,
-            "title": "Async Day - Submit Gradescope Responses by 1/26",
+            "title": "Submit Gradescope Responses by 6/25",
             "date": "2022-06-24",
             "deadline": "None",
             "links": {
-                "Watch Lessons 09 - 10 Below": ""
+                "Watch Lessons Below": "",
+                "syllabus and diagram assignment- TODO": "",
+                "EX02 - One Shot Wordle": ""
             }
         },
         {
             "kind": "LS",
             "n": 9,
-            "title": "while Loop Statements",
+            "title": "Introducing Functions",
             "date": "2022-06-24",
             "deadline": "2022-06-25",
             "links": {
-                "Watch Lesson": "https://www.youtube.com/watch?v=pvpgvYlyfUU"
+                "Watch Lesson": "https://youtu.be/UheQNnstJE8"
             }
         },
         {
             "kind": "LS",
             "n": 10,
-            "title": "Boolean Operators: and, or, not",
+            "title": "Function Syntax",
             "date": "2022-06-24",
             "deadline": "2022-06-25",
             "links": {
-                "Watch Lesson": "https://youtu.be/HYq9Zoigoc4"
+                "Watch Lesson": "https://youtu.be/ihpN4LOqx8s"
             }
         },
         {
             "kind": "LS",
             "n": 11,
-            "title": "EX02 Background Lesson: Advanced String Concepts (Due 1/31 at 11:59pm)",
+            "title": "Function Semantics",
             "date": "2022-06-24",
-            "deadline": "2022-06-27",
+            "deadline": "2022-06-25",
             "links": {
-                "Read Background Lesson": "/lessons/strings.html"
+                "Watch Lesson": "https://youtu.be/_swT3gKjDVg"
             }
         },
         {
@@ -208,7 +204,7 @@
             "n": 2,
             "title": "One-shot Wordle",
             "date": "2022-06-24",
-            "deadline": "2022-06-27",
+            "deadline": "2022-06-26",
             "links": {
                 "EX02 - One Shot Wordle": "/exercises/ex02.html"
             }
@@ -220,12 +216,33 @@
         {
             "kind": "CL",
             "n": 5,
-            "title": "In-Person: Practice with Control Flow",
+            "title": "Submit Gradescope Responses by 6/28",
             "date": "2022-06-27",
             "deadline": "None",
             "links": {
-                "Quarantine YouTube Stream": "https://youtu.be/2Uw5yVUXx0Y",
-                "Slides": "/static/slides/cl05-control-flow-practice.pdf"
+                "Watch Lessons LS12 (Not covered on QZ00)": "",
+                "Complete Challenge Questions 07-09": "",
+                "EX03 - Structured Wordle": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 12,
+            "title": "EX02 Background Lesson: Advanced String Concepts (Due 1/31 at 11:59pm)",
+            "date": "2022-06-27",
+            "deadline": "2022-06-28",
+            "links": {
+                "Read Background Lesson": "/lessons/strings.html"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 3,
+            "title": "Structured Wordle",
+            "date": "2022-06-27",
+            "deadline": "2022-06-28",
+            "links": {
+                "EX03 - Structured Wordle": "/exercises/ex03.html"
             }
         }
     ],
@@ -233,7 +250,7 @@
         {
             "kind": "QZ",
             "n": 0,
-            "title": "Quiz 0",
+            "title": "Quiz 0 - TODO",
             "date": "2022-06-28",
             "deadline": "2022-06-28",
             "links": {
@@ -244,68 +261,39 @@
                 "More Practice Questions": "/resources/practice/sp22/quiz0-worksheet.html",
                 "Covered Topics: Syllabus, Resources Page, Lessons 4 - 8": ""
             }
-        },
-        {
-            "kind": "CL",
-            "n": 6,
-            "title": "Async Day - Submit Gradescope Responses by 2/2",
-            "date": "2022-06-28",
-            "deadline": "None",
-            "links": {
-                "Watch Lessons 11 - 13 Below": ""
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 12,
-            "title": "Introducing Functions",
-            "date": "2022-06-28",
-            "deadline": "2022-06-29",
-            "links": {
-                "Watch Lesson": "https://youtu.be/UheQNnstJE8"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 13,
-            "title": "Function Syntax",
-            "date": "2022-06-28",
-            "deadline": "2022-06-29",
-            "links": {
-                "Watch Lesson": "https://youtu.be/ihpN4LOqx8s"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 14,
-            "title": "Function Semantics",
-            "date": "2022-06-28",
-            "deadline": "2022-06-29",
-            "links": {
-                "Watch Lesson": "https://youtu.be/_swT3gKjDVg"
-            }
-        },
-        {
-            "kind": "EX",
-            "n": 3,
-            "title": "Structured Wordle",
-            "date": "2022-06-28",
-            "deadline": "2022-06-29",
-            "links": {
-                "EX03 - Structured Wordle": "/exercises/ex03.html"
-            }
         }
     ],
     "2022-06-29": [
         {
             "kind": "CL",
             "n": 7,
-            "title": "In-Person: Practice with Functions",
+            "title": "Submit Gradescope Responses by 6/30",
             "date": "2022-06-29",
             "deadline": "None",
             "links": {
-                "Quarantine YouTube Stream": "https://youtu.be/EiFkk_KCkyA",
-                "Slides": "/static/slides/cl07-function-practice.pdf"
+                "Watch Lessons 13 Below": "",
+                "Complete Challenge Questions 10-13": "",
+                "EX04 - Choose Your Own Adventure": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 13,
+            "title": "Lists",
+            "date": "2022-06-29",
+            "deadline": "2022-06-30",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=uGsgE_EKI4U"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 4,
+            "title": "Choose Your Own Adventure",
+            "date": "2022-06-29",
+            "deadline": "2022-06-30",
+            "links": {
+                "TODO": ""
             }
         }
     ],
@@ -313,54 +301,65 @@
         {
             "kind": "CL",
             "n": 8,
-            "title": "Async Day - Submit Gradescope Responses by 2/9",
+            "title": "Submit Gradescope Responses by 7/01",
             "date": "2022-06-30",
             "deadline": "None",
             "links": {
-                "Watch Lessons 14": ""
+                "Watch Lessons 14-15 Below": "",
+                "Complete Challenge Questions 14-16": "",
+                "EX05 - List Utility Functions": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 14,
+            "title": "Unit Testing",
+            "date": "2022-06-30",
+            "deadline": "2022-07-01",
+            "links": {
+                "Watch Lesson": "https://youtu.be/VAdJybtia-4"
             }
         },
         {
             "kind": "LS",
             "n": 15,
-            "title": "Lists",
+            "title": "for..in Loops",
             "date": "2022-06-30",
             "deadline": "2022-07-01",
             "links": {
-                "Watch Lesson": "https://www.youtube.com/watch?v=uGsgE_EKI4U"
+                "Watch Lesson": "https://youtu.be/YPfFCD_RGK8"
             }
         },
         {
-            "kind": "RV",
-            "n": 0,
-            "title": "Review Session for Quiz 1",
+            "kind": "EX",
+            "n": 5,
+            "title": "List Utility Functions",
             "date": "2022-06-30",
-            "deadline": "None",
+            "deadline": "2022-07-05",
             "links": {
-                "Recording Passcode: 8@e.caM#": "https://unc.zoom.us/rec/share/tiJrKXEoIlLRQWVoOvSap_Zho4gbQKVZBuOZV-UKmOvyP7vSLAfbb8Wm4k9DamnL.WMRkCWG1u__bPZZJ?startTime=1644363199000",
-                "Slides": "https://docs.google.com/presentation/d/1qb3dbSPHiWQMkJA_z-Yw40wTxGdDoSEvjcparFZ6OI8/edit?usp=sharing"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 99,
-            "title": "Lists",
-            "date": "2022-06-30",
-            "deadline": "2022-07-01",
-            "links": {
-                "Watch Lesson": "https://www.youtube.com/watch?v=uGsgE_EKI4U"
+                "Write-up - TODO": ""
             }
         }
     ],
     "2022-07-01": [
         {
-            "kind": "EX",
-            "n": 4,
-            "title": "Turtle Art - Due Weds Feb 16",
+            "kind": "CL",
+            "n": 9,
+            "title": "Submit Gradescope Responses by 7/02",
             "date": "2022-07-01",
-            "deadline": "2022-07-06",
+            "deadline": "None",
             "links": {
-                "Write-up": "/exercises/ex04.html"
+                "Watch Lesson 16": "Complete Challenge Questions 17-19"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 16,
+            "title": "Dictionaries",
+            "date": "2022-07-01",
+            "deadline": "2022-07-02",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
             }
         }
     ],
@@ -371,7 +370,7 @@
         {
             "kind": "QZ",
             "n": 1,
-            "title": "Quiz 1",
+            "title": "Quiz 1 - TODO",
             "date": "2022-07-05",
             "deadline": "2022-07-05",
             "links": {
@@ -381,36 +380,300 @@
             }
         }
     ],
-    "2022-07-06": [],
-    "2022-07-07": [],
-    "2022-07-08": [],
+    "2022-07-06": [
+        {
+            "kind": "CL",
+            "n": 11,
+            "title": "Submit Gradescope Responses by 7/07",
+            "date": "2022-07-06",
+            "deadline": "None",
+            "links": {
+                "Watch Lessons 17-18": "EX06 - Dictionaries"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 17,
+            "title": "Jupyter Notebooks",
+            "date": "2022-07-06",
+            "deadline": "2022-07-07",
+            "links": {
+                "Watch Lesson": "https://youtu.be/HJgX1WWC26A"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 18,
+            "title": "Reading CSV Files",
+            "date": "2022-07-06",
+            "deadline": "2022-07-07",
+            "links": {
+                "Watch Lesson": "https://youtu.be/z4ax7ilh-RY"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 6,
+            "title": "Dictionaries",
+            "date": "2022-07-06",
+            "deadline": "2022-07-07",
+            "links": {
+                "Write-up - TODO": ""
+            }
+        }
+    ],
+    "2022-07-07": [
+        {
+            "kind": "CL",
+            "n": 12,
+            "title": "Submit Gradescope Responses by 7/08",
+            "date": "2022-07-07",
+            "deadline": "None",
+            "links": {
+                "Watch Lesson 19": "",
+                "Complete Challenge Question 20": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 19,
+            "title": "Object Oriented Programming",
+            "date": "2022-07-07",
+            "deadline": "2022-07-07",
+            "links": {
+                "Watch Lesson": "https://youtu.be/wBhS8OXtM5Q"
+            }
+        }
+    ],
+    "2022-07-08": [
+        {
+            "kind": "CL",
+            "n": 13,
+            "title": "Submit Gradescope Responses by 7/09",
+            "date": "2022-07-08",
+            "deadline": "None",
+            "links": {
+                "Complete Challenge Question 21-23": "",
+                "EX07 - Data Wrangling - TODO": ""
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 7,
+            "title": "Dictionaries",
+            "date": "2022-07-08",
+            "deadline": "2022-07-11",
+            "links": {
+                "Write-up - TODO": ""
+            }
+        }
+    ],
     "2022-07-09": [],
     "2022-07-10": [],
-    "2022-07-11": [],
+    "2022-07-11": [
+        {
+            "kind": "CL",
+            "n": 14,
+            "title": "Submit Gradescope Responses by 7/12",
+            "date": "2022-07-11",
+            "deadline": "None",
+            "links": {
+                "Watch Lessons 20-22": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 20,
+            "title": "Magic Methods",
+            "date": "2022-07-11",
+            "deadline": "2022-07-12",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=yxDIEqm_K6c"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 21,
+            "title": "Operator Overloading",
+            "date": "2022-07-11",
+            "deadline": "2022-07-12",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=JJLnGL-cShU&feature=youtu.be"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 22,
+            "title": "Column-Based Filtering",
+            "date": "2022-07-11",
+            "deadline": "2022-07-12",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
+            }
+        }
+    ],
     "2022-07-12": [
         {
             "kind": "QZ",
             "n": 2,
-            "title": "Quiz 2",
+            "title": "Quiz 2 - TODO",
             "date": "2022-07-12",
             "deadline": "2022-07-12",
             "links": {}
         }
     ],
-    "2022-07-13": [],
-    "2022-07-14": [],
-    "2022-07-15": [],
+    "2022-07-13": [
+        {
+            "kind": "CL",
+            "n": 16,
+            "title": "Submit Gradescope Responses by 7/14",
+            "date": "2022-07-13",
+            "deadline": "None",
+            "links": {
+                "Watch Lesson 23": "",
+                "Complete Challenge Question 24": "",
+                "EX08 - Simpy - TODO": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 23,
+            "title": "Getting Started with EX08",
+            "date": "2022-07-13",
+            "deadline": "2022-07-14",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=fmnMaN728RE&feature=youtu.be"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 8,
+            "title": "Simpy",
+            "date": "2022-07-13",
+            "deadline": "2022-07-14",
+            "links": {
+                "Write-up - TODO": ""
+            }
+        }
+    ],
+    "2022-07-14": [
+        {
+            "kind": "CL",
+            "n": 17,
+            "title": "Submit Gradescope Responses by 7/15",
+            "date": "2022-07-14",
+            "deadline": "None",
+            "links": {
+                "Complete Challenge Questions 25-28": ""
+            }
+        }
+    ],
+    "2022-07-15": [
+        {
+            "kind": "CL",
+            "n": 18,
+            "title": "Submit Gradescope Responses by 7/16",
+            "date": "2022-07-15",
+            "deadline": "None",
+            "links": {
+                "Watch Lessons 24-25": "",
+                "EX09 - NumPy and Pandas": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 24,
+            "title": "NumPy and Pandas",
+            "date": "2022-07-15",
+            "deadline": "2022-07-16",
+            "links": {
+                "Watch Lesson - TODO": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 25,
+            "title": "Recursion Introduction",
+            "date": "2022-07-15",
+            "deadline": "2022-07-16",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=nVv7RDDtwdg"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 9,
+            "title": "NumPy and Pandas",
+            "date": "2022-07-15",
+            "deadline": "2022-07-17",
+            "links": {
+                "Write-up - TODO": ""
+            }
+        }
+    ],
     "2022-07-16": [],
     "2022-07-17": [],
     "2022-07-18": [],
-    "2022-07-19": [],
+    "2022-07-19": [
+        {
+            "kind": "CL",
+            "n": 20,
+            "title": "EX10 - Recursion due LDOC",
+            "date": "2022-07-19",
+            "deadline": "None",
+            "links": {
+                "Complete EX10": ""
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 10,
+            "title": "Recursion",
+            "date": "2022-07-19",
+            "deadline": "2022-07-21",
+            "links": {
+                "Write-up - TODO": ""
+            }
+        }
+    ],
     "2022-07-20": [],
-    "2022-07-21": [],
+    "2022-07-21": [
+        {
+            "kind": "CL",
+            "n": 22,
+            "title": "LDOC!",
+            "date": "2022-07-21",
+            "deadline": "None",
+            "links": {
+                "Watch LDOC Lessons 26-27": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 26,
+            "title": "Announcements and Function Writing Practice",
+            "date": "2022-07-21",
+            "deadline": "2022-07-22",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=aTqUCIQylLM&feature=youtu.be"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 27,
+            "title": "Class Writing Practice and Closing Notes",
+            "date": "2022-07-21",
+            "deadline": "2022-07-22",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=4p3kaA76dDI"
+            }
+        }
+    ],
     "2022-07-25": [
         {
             "kind": "FN",
             "n": 0,
-            "title": "Final @ 8:00AM",
+            "title": "Final @ 8:00am",
             "date": "2022-07-25",
             "deadline": "None",
             "links": {}
