@@ -109,7 +109,8 @@
             "links": {
                 "Watch Lessons Below": "",
                 "Complete Challenge Questions 00-03": "",
-                "Start EX01 - Chardle": ""
+                "Start EX01 - Chardle": "",
+                "What to expect for QZ00 on Friday": "/lessons/what_to_expect_qz00.html"
             }
         },
         {
@@ -120,6 +121,47 @@
             "deadline": "2022-06-23",
             "links": {
                 "Watch Lesson": "https://youtu.be/JP5oFPHw5zc"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 0,
+            "title": "Practice with Numerical Expressions",
+            "date": "2022-06-22",
+            "deadline": "2022-06-23",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://youtu.be/ISP-9wkrlyM"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 1,
+            "title": "Evaluating Relational Expressions",
+            "date": "2022-06-22",
+            "deadline": "2022-06-23",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://youtu.be/g8_OERDtJ8c"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 2,
+            "title": "Evaluating Relational Expressions",
+            "date": "2022-06-22",
+            "deadline": "2022-06-23",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=wXoUw0scEsI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 3,
+            "title": "Environment Diagrams",
+            "date": "2022-06-22",
+            "deadline": "2022-06-23",
+            "links": {
+                "Read instructions": "/lessons/cl02-variables.html",
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=Vfmuwx3vYKg"
             }
         },
         {
@@ -153,6 +195,36 @@
             "deadline": "2022-06-24",
             "links": {
                 "Watch Lesson": "https://www.youtube.com/watch?v=pvpgvYlyfUU"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 4,
+            "title": "Nested if/then/else",
+            "date": "2022-06-23",
+            "deadline": "2022-06-24",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=ruWo2zP9p4U"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 5,
+            "title": "While Loops",
+            "date": "2022-06-23",
+            "deadline": "2022-06-24",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=_Q9oBXDyciE"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 6,
+            "title": "Bool Operators",
+            "date": "2022-06-23",
+            "deadline": "2022-06-24",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=HYq9Zoigoc4"
             }
         }
     ],
@@ -236,6 +308,36 @@
             }
         },
         {
+            "kind": "CQ",
+            "n": 7,
+            "title": "Nested While Loops",
+            "date": "2022-06-27",
+            "deadline": "2022-06-28",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 8,
+            "title": "Function Calls",
+            "date": "2022-06-27",
+            "deadline": "2022-06-28",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 9,
+            "title": "Function Calls, main, and f-strings",
+            "date": "2022-06-27",
+            "deadline": "2022-06-28",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=d7xamgcwV8U"
+            }
+        },
+        {
             "kind": "EX",
             "n": 3,
             "title": "Structured Wordle",
@@ -287,6 +389,46 @@
             }
         },
         {
+            "kind": "CQ",
+            "n": 10,
+            "title": "Diagrams with References (Lists)",
+            "date": "2022-06-29",
+            "deadline": "2022-06-30",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=Ns0ac_RhncI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 11,
+            "title": "Diagrams with List Arguments",
+            "date": "2022-06-29",
+            "deadline": "2022-06-30",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=-fwsbFlct4k"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 12,
+            "title": "Diagrams with List Return Values",
+            "date": "2022-06-29",
+            "deadline": "2022-06-30",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=njC-awGQ4dQ"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 13,
+            "title": "Follow Along Programming Lesson",
+            "date": "2022-06-29",
+            "deadline": "2022-06-30",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://youtu.be/n3FahRgDotQ"
+            }
+        },
+        {
             "kind": "EX",
             "n": 4,
             "title": "Choose Your Own Adventure",
@@ -331,6 +473,36 @@
             }
         },
         {
+            "kind": "CQ",
+            "n": 14,
+            "title": "Scopes: Global vs. Local",
+            "date": "2022-06-30",
+            "deadline": "2022-07-01",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=Gq4cWatsHKg"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 15,
+            "title": "List References",
+            "date": "2022-06-30",
+            "deadline": "2022-07-01",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=7UJyTgKUF5M"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 16,
+            "title": "List References Continued",
+            "date": "2022-06-30",
+            "deadline": "2022-07-01",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=Cm9YzSV62k8"
+            }
+        },
+        {
             "kind": "EX",
             "n": 5,
             "title": "List Utility Functions",
@@ -360,6 +532,36 @@
             "deadline": "2022-07-02",
             "links": {
                 "Watch Lesson": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 17,
+            "title": "Dictionary Practice",
+            "date": "2022-07-01",
+            "deadline": "2022-07-02",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 18,
+            "title": "What's up with __name__?",
+            "date": "2022-07-01",
+            "deadline": "2022-07-02",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=drrrVHLv_Bg"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 19,
+            "title": "Importing Modules with Python",
+            "date": "2022-07-01",
+            "deadline": "2022-07-02",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=uTc39ZXStP0"
             }
         }
     ],
@@ -439,9 +641,19 @@
             "n": 19,
             "title": "Object Oriented Programming",
             "date": "2022-07-07",
-            "deadline": "2022-07-07",
+            "deadline": "2022-07-08",
             "links": {
                 "Watch Lesson": "https://youtu.be/wBhS8OXtM5Q"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 20,
+            "title": "Row-oriented vs. Column-oriented Data Structure Compositions",
+            "date": "2022-07-07",
+            "deadline": "2022-07-08",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
             }
         }
     ],
@@ -455,6 +667,36 @@
             "links": {
                 "Complete Challenge Question 21-23": "",
                 "EX07 - Data Wrangling - TODO": ""
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 21,
+            "title": "Tracing a Basic OOP Example in Memory",
+            "date": "2022-07-08",
+            "deadline": "2022-07-09",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=WbDM7F_6PeQ"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 22,
+            "title": "Implementing a Pure Method and Mutable vs Immutable Operations",
+            "date": "2022-07-08",
+            "deadline": "2022-07-09",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=nl4zwaffDYI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 22,
+            "title": "Diagramming with Multiple Classes",
+            "date": "2022-07-08",
+            "deadline": "2022-07-09",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=yV1VjEx86fQ"
             }
         },
         {
@@ -546,6 +788,16 @@
             }
         },
         {
+            "kind": "CQ",
+            "n": 24,
+            "title": "Special Parameters",
+            "date": "2022-07-13",
+            "deadline": "2022-07-14",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=7cOEibFopjQ"
+            }
+        },
+        {
             "kind": "EX",
             "n": 8,
             "title": "Simpy",
@@ -565,6 +817,46 @@
             "deadline": "None",
             "links": {
                 "Complete Challenge Questions 25-28": ""
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 25,
+            "title": "Diagram #1",
+            "date": "2022-07-14",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=XFynblkouZ4"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 26,
+            "title": "Diagram #2",
+            "date": "2022-07-14",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=f1bnbit3Rlo"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 27,
+            "title": "Diagram #3",
+            "date": "2022-07-14",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=YfprfyavgzY"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 28,
+            "title": "Quiz Notes on Diagramming Construction when classes do not have constructors",
+            "date": "2022-07-14",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=IPtvrnz39hw"
             }
         }
     ],
