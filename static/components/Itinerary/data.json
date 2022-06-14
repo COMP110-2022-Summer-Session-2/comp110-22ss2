@@ -171,7 +171,7 @@
             "date": "2022-06-22",
             "deadline": "2022-06-23",
             "links": {
-                "EX01 - Chardle": "/exercises/ex01.html"
+                "Write-up": "/exercises/ex01.html"
             }
         }
     ],
@@ -278,7 +278,7 @@
             "date": "2022-06-24",
             "deadline": "2022-06-26",
             "links": {
-                "EX02 - One Shot Wordle": "/exercises/ex02.html"
+                "Write-up": "/exercises/ex02.html"
             }
         }
     ],
@@ -344,7 +344,7 @@
             "date": "2022-06-27",
             "deadline": "2022-06-28",
             "links": {
-                "EX03 - Structured Wordle": "/exercises/ex03.html"
+                "Write-up": "/exercises/ex03.html"
             }
         }
     ],
@@ -435,7 +435,7 @@
             "date": "2022-06-29",
             "deadline": "2022-06-30",
             "links": {
-                "EX04 - Choose Your Own Adventure": "/exercises/choose-your-own-adventure.html"
+                "Write-up": "/exercises/choose-your-own-adventure.html"
             }
         }
     ],
@@ -509,7 +509,7 @@
             "date": "2022-06-30",
             "deadline": "2022-07-05",
             "links": {
-                "EX05 - List Utility Functions": "/exercises/ex05.html"
+                "Write-up": "/exercises/ex05.html"
             }
         }
     ],
@@ -620,7 +620,7 @@
             "date": "2022-07-06",
             "deadline": "2022-07-07",
             "links": {
-                "Write-up - TODO": ""
+                "Write-up": "/exercises/ex06.html"
             }
         }
     ],
@@ -706,7 +706,7 @@
             "date": "2022-07-08",
             "deadline": "2022-07-11",
             "links": {
-                "Write-up - TODO": ""
+                "Write-up": "/exercises/ex07.html"
             }
         }
     ],
@@ -804,7 +804,7 @@
             "date": "2022-07-13",
             "deadline": "2022-07-14",
             "links": {
-                "Write-up - TODO": ""
+                "Write-up": "/exercises/ex09.html"
             }
         }
     ],
@@ -919,12 +919,12 @@
         },
         {
             "kind": "EX",
-            "n": 10,
+            "n": 9,
             "title": "Recursion",
             "date": "2022-07-19",
             "deadline": "2022-07-21",
             "links": {
-                "Write-up - TODO": ""
+                "Write-up": "exercises/ex10.html"
             }
         }
     ],
