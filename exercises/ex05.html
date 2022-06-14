@@ -7,7 +7,7 @@
     <title> EX05 - `list` Utility Functions - COMP110 - 22S</title>
     <link rel="icon" type="image/png" href="/static/tabbrand.png" />
     <link rel="stylesheet" href="/static/bootstrap.min.css">
-    <link rel="stylesheet" href="/static/style.css?v=1655232211.4248796">
+    <link rel="stylesheet" href="/static/style.css?v=1655234059.8307955">
     <script src="/static/scripts/scroll-handler.js"></script>
     <script src="/static/scripts/sunset_sunrise.js"></script>
 
@@ -192,11 +192,11 @@
 <ul>
 <li>Unit Tests – 5 Points Autograded</li>
 </ul></li>
-<li><code>sub</code> – 35 Points Autograded
+<li><code>is_equal</code> – 35 Points Autograded
 <ul>
 <li>Unit Tests – 5 Points Autograded</li>
 </ul></li>
-<li><code>concat</code> – 15 Points Autograded
+<li><code>sub</code> – 15 Points Autograded
 <ul>
 <li>Unit Tests – 5 Points Autograded</li>
 </ul></li>
@@ -208,7 +208,7 @@
 <p>Inside the <code>exercises/ex05</code> directory, create a file named <code>utils.py</code>. Add a docstring and establish an <code>__author__</code> variable to be assigned a string with the digits of your PID. This is where you will implement your function skeletons and implementations below.</p>
 <p>Unit Tests</p>
 <p>Also inside the <code>exercises/ex05</code> directory, create a file named <code>utils_test.py</code>. Add a docstring and establish an <code>__author__</code> in this file as well.</p>
-<p>For each function from below (<code>only_evens</code>, <code>sub</code>, <code>concat</code>), you are to define at least <strong>3x unit test</strong> functions. Remember that a unit test function starts with <code>test_</code>.</p>
+<p>For each function from below (<code>only_evens</code>, <code>is_equal</code>, <code>sub</code>), you are to define at least <strong>3x unit test</strong> functions. Remember that a unit test function starts with <code>test_</code>.</p>
 <p>The 3 unit tests should consist of:</p>
 <ul>
 <li>One edge case</li>
@@ -218,10 +218,10 @@
 <p>The command to run your tests is <code>python -m pytest exercises/ex05</code> or you can run them using the beaker tab in VSCode if it is working (do note the VSCode testing feature tends to be a bit flaky).</p>
 <p>Once you’re ready to import and begin testing your skeletons, you can add the following import lines, corresponding to the functions you have completed, to do so:</p>
 <pre class="plaintext"><code>from utils import only_evens
-from utils import sub
-from utils import concat</code></pre>
+from utils import is_equal
+from utils import sub</code></pre>
 <p>Once you have completed all functions, you can reduce the three import lines down into a single one for less redundancy in your testing code:</p>
-<pre class="plaintext"><code>from utils import only_evens, sub, concat</code></pre>
+<pre class="plaintext"><code>from utils import only_evens, is_equal, sub</code></pre>
 <p>If your screen is large enough, you are encouraged to open these files side-by-side in VSCode by dragging the tab of one to the right side of VSCode so that it changes to a split pane view. Closing your file explorer can help give you additional horizontal space.</p>
 <h2 id="only_evens-30-points">1. <code>only_evens</code> – 30 Points</h2>
 <p>This is the first function you will write in <code>utils.py</code>. The other two functions will also be defined in this file.</p>
@@ -238,7 +238,17 @@ from utils import concat</code></pre>
 <li>Arguments: A list of integers.</li>
 <li>Returns: A list of integers, containing only the even elements of the input parameter.</li>
 </ol>
-<h2 id="sub-35-points">2. <code>sub</code> – 35 Points</h2>
+<h2 id="is_equal-35-points">2. <code>is_equal</code> – 35 Points</h2>
+<p>Given two <code>list</code>s of <code>int</code> values, return <code>True</code> if <em>every</em> element at <em>every</em> index is equal in both <code>list</code>s.</p>
+<pre class="plaintext"><code>&gt;&gt;&gt; is_equal([1, 0, 1], [1, 0, 1])
+True
+&gt;&gt;&gt; is_equal([1, 1, 0], [1, 0, 1]))
+False</code></pre>
+<p>Your implementation should not assume the lengths of each List are equal.</p>
+<p>This concept is called <em>deep equality</em>. Two separate <code>list</code> objects on the <em>heap</em> may be distinct objects, such that if you changed one the other would remain the same. However, two distinct objects can be <em>deeply equal</em> to one another if what they are made of is equal to each other in essence.</p>
+<p>Define a function with the following signature: 1. Name: <code>is_equal</code> 2. Parameters: Two lists of integers. 3. Returns: <code>True</code> if lists are equal, <code>False</code> otherwise.</p>
+<p>Implement the <code>is_equal</code> function as described above.</p>
+<h2 id="sub-on-your-own-15-points">3. <code>sub</code> <strong>ON YOUR OWN</strong> – 15 Points</h2>
 <p>In this exercise you will write a function named <code>sub</code>. Given a <code>list</code> of <code>ints</code>, a start index, and an end index (not inclusive), <code>sub</code> should generate a List which is a subset of the given list, between the specified start index and the end index - 1. This function should <em>not mutate</em> its input list.</p>
 <p>Example usage:</p>
 <pre class="plaintext"><code>&gt;&gt;&gt; a_list = [10, 20, 30, 40]
@@ -252,15 +262,6 @@ from utils import concat</code></pre>
 </ol>
 <p>If the start index is negative, start from the beginning of the list. If the end index is greater than the length of the list, end with the end of the list.</p>
 <p>If the length of the list is 0, start &gt; len of the list or end &lt;= 0, return the empty list.</p>
-<h2 id="concat-on-your-own-15-points">3. <code>concat</code> <strong>ON YOUR OWN</strong> – 15 Points</h2>
-<p>In this exercise you will write a function named <code>concat</code>. Given two <code>Lists</code> of <code>ints</code>, <code>concat</code> should generate a new List which contains all of the elements of the first list followed by all of the elements of the second list.</p>
-<p>Define your function with the following signature.</p>
-<ol type="1">
-<li>Name: <code>concat</code></li>
-<li>Parameters: Two lists of ints.</li>
-<li>Returns: A <code>list</code> containing all elements of the first list, followed by all elements of the second list.</li>
-</ol>
-<p><code>concat</code> <em>should NOT</em> mutate (modify) either of the arguments passed to it.</p>
 <h2 id="make-a-backup-checkpoint-commit">4. Make a Backup Checkpoint “Commit”</h2>
 <p>As you make progress on this exercise, making backups is encouraged.</p>
 <ol type="1">
