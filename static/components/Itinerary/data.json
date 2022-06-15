@@ -272,6 +272,16 @@
             }
         },
         {
+            "kind": "LS",
+            "n": 12,
+            "title": "EX02 Background Lesson: Advanced String Concepts (Due 1/31 at 11:59pm)",
+            "date": "2022-06-24",
+            "deadline": "2022-06-25",
+            "links": {
+                "Read Background Lesson": "/lessons/strings.html"
+            }
+        },
+        {
             "kind": "EX",
             "n": 2,
             "title": "One-shot Wordle",
@@ -295,16 +305,6 @@
                 "Watch Lessons LS12 (Not covered on QZ00)": "",
                 "Complete Challenge Questions 07-09": "",
                 "EX03 - Structured Wordle": ""
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 12,
-            "title": "EX02 Background Lesson: Advanced String Concepts (Due 1/31 at 11:59pm)",
-            "date": "2022-06-27",
-            "deadline": "2022-06-28",
-            "links": {
-                "Read Background Lesson": "/lessons/strings.html"
             }
         },
         {
