@@ -7,7 +7,7 @@
     <title> Quiz 02 Practice - COMP110 - 22S</title>
     <link rel="icon" type="image/png" href="/static/tabbrand.png" />
     <link rel="stylesheet" href="/static/bootstrap.min.css">
-    <link rel="stylesheet" href="/static/style.css?v=1655653580.2711842">
+    <link rel="stylesheet" href="/static/style.css?v=1655670662.039112">
     <script src="/static/scripts/scroll-handler.js"></script>
     <script src="/static/scripts/sunset_sunrise.js"></script>
 
@@ -194,14 +194,12 @@
 <li><a href="#conceptual-questions">Conceptual Questions</a></li>
 <li><a href="#memory-diagrams">Memory Diagrams</a></li>
 <li><a href="#code-tracing">Code Tracing</a></li>
-<li><a href="#function-writing">Function Writing</a></li>
 </ul></li>
 <li><a href="#solutions">Solutions</a>
 <ul>
 <li><a href="#conceptual-questions-1">Conceptual Questions</a></li>
 <li><a href="#memory-diagrams-1">Memory Diagrams</a></li>
 <li><a href="#code-tracing-1">Code Tracing</a></li>
-<li><a href="#function-writing-1">Function Writing</a></li>
 </ul></li>
 </ul>
 </</ul>
@@ -243,9 +241,9 @@ minor changes/additions
 <img src="/static/practice_worksheets/fa21/qz02-question11.png" /></p></li>
 <li><p>Produce a memory diagram for the following code snippet, being sure to include its stack and output.<br />
 <img src="/static/practice_worksheets/fa21/qz02-question12new.png" /></p></li>
-<li><p>Produce a memory diagram for the following code snippet, being sure to include its stack and output.<br />
-<img src="/static/practice_worksheets/fa21/qz03-question12.png" /></p></li>
 </ol>
+<!-- 20. Produce a memory diagram for the following code snippet, being sure to include its stack and output.  
+![](/static/practice_worksheets/fa21/qz03-question12.png) -->
 <h2 id="code-tracing">Code Tracing</h2>
 <ol start="21" type="1">
 <li><p>Given the following code snippet, answer the questions below.<br />
@@ -258,17 +256,18 @@ minor changes/additions
 22.2. What is the value of <code>i</code> on line 13 during the <em>last</em> call to <code>change_and_check</code>?<br />
 22.3. How many total frames are created on the stack throughout the run of this program (including the globals frame)?</p></li>
 </ol>
-<h2 id="function-writing">Function Writing</h2>
-<ol start="23" type="1">
-<li><p>Write a function called <code>odd_and_even</code>. Given a list of <code>ints</code>, <code>odd_and_even</code> should return a new list containing the elements that are odd and have an even index.<br />
-Example Usage:<br />
-<img src="/static/practice_worksheets/fa21/qz02-question15demo.png" /></p></li>
-<li><p>Write a function named <code>vowels_and_threes</code>. Given a string, <code>vowels_and_threes</code> should return a new string containing the characters that are either at an index that is a multiple of 3 or a vowel (one or the other, not both). You can assume that the input string is all lowercase, for simplicity.<br />
-Example Usage:<br />
-<img src="/static/practice_worksheets/fa21/qz02-question16demo.png" /></p></li>
-<li><p>Write a function called <code>average_grades</code>. Given a dictionary with <code>str</code> keys and <code>list[int]</code> values, <code>average_grades</code> should return a new dictionary of type <code>dict[str, float]</code> that maps each student to their average.<br />
-<img src="/static/practice_worksheets/sp22/qz02-solution17.png" /></p></li>
-</ol>
+<!-- ## Function Writing
+
+23. Write a function called `odd_and_even`. Given a list of `ints`, `odd_and_even` should return a new list containing the elements that are odd and have an even index.  
+Example Usage:  
+![](/static/practice_worksheets/fa21/qz02-question15demo.png)
+
+24. Write a function named `vowels_and_threes`. Given a string, `vowels_and_threes` should return a new string containing the characters that are either at an index that is a multiple of 3 or a vowel (one or the other, not both). You can assume that the input string is all lowercase, for simplicity.  
+Example Usage:  
+![](/static/practice_worksheets/fa21/qz02-question16demo.png)
+
+25. Write a function called `average_grades`. Given a dictionary with `str` keys and `list[int]` values, `average_grades` should return a new dictionary of type `dict[str, float]` that maps each student to their average.  
+![](/static/practice_worksheets/sp22/qz02-solution17.png) -->
 <h1 id="solutions">Solutions</h1>
 <h2 id="conceptual-questions-1">Conceptual Questions</h2>
 <ol type="1">
@@ -299,8 +298,8 @@ Note: these are not all of the similarities and differences, just some important
 <ol start="18" type="1">
 <li><p><img src="/static/practice_worksheets/fa21/qz02-solution11.png" /></p></li>
 <li><p><img src="/static/practice_worksheets/fa21/qz02-solution12n.png" /></p></li>
-<li><p><img src="/static/practice_worksheets/fa21/qz03-solution12.png" /></p></li>
 </ol>
+<!-- 20.   ![](/static/practice_worksheets/fa21/qz03-solution12.png) -->
 <h2 id="code-tracing-1">Code Tracing</h2>
 <ol start="21" type="1">
 <li><p>21.1. <code>[3, 7, 10, 13]</code><br />
@@ -309,13 +308,15 @@ Note: these are not all of the similarities and differences, just some important
 22.2. 3<br />
 22.3. 4</p></li>
 </ol>
-<h2 id="function-writing-1">Function Writing</h2>
-<p>Note: Your solution does not need to be identical to these, these are just two of many possible solutions.</p>
-<ol start="23" type="1">
-<li><p><img src="/static/practice_worksheets/fa21/qz02-solution15.png" /></p></li>
-<li><p><img src="/static/practice_worksheets/fa21/qz02-solution16.png" /></p></li>
-<li><p><img src="/static/practice_worksheets/fa21/qz03-solution14.png" /></p></li>
-</ol>
+<!-- ## Function Writing
+
+Note:  Your solution does not need to be identical to these, these are just two of many possible solutions.
+
+23.  ![](/static/practice_worksheets/fa21/qz02-solution15.png)
+
+24.  ![](/static/practice_worksheets/fa21/qz02-solution16.png)
+
+25.  ![](/static/practice_worksheets/fa21/qz03-solution14.png) -->
 </div>
 
     </div> 

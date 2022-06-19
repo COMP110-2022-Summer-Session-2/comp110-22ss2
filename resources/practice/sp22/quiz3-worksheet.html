@@ -7,7 +7,7 @@
     <title> Quiz 03 Practice - COMP110 - 22S</title>
     <link rel="icon" type="image/png" href="/static/tabbrand.png" />
     <link rel="stylesheet" href="/static/bootstrap.min.css">
-    <link rel="stylesheet" href="/static/style.css?v=1655653580.468177">
+    <link rel="stylesheet" href="/static/style.css?v=1655670662.2413826">
     <script src="/static/scripts/scroll-handler.js"></script>
     <script src="/static/scripts/sunset_sunrise.js"></script>
 
@@ -194,14 +194,11 @@
 <li><a href="#conceptual-questions">Conceptual Questions</a></li>
 <li><a href="#memory-diagrams">Memory Diagrams</a></li>
 <li><a href="#class-writing">Class Writing</a></li>
-<li><a href="#function-writing">Function Writing</a></li>
 </ul></li>
 <li><a href="#solutions">Solutions</a>
 <ul>
 <li><a href="#conceptual-questions-1">Conceptual Questions</a></li>
 <li><a href="#memory-diagrams-1">Memory Diagrams</a></li>
-<li><a href="#class-writing-1">Class Writing</a></li>
-<li><a href="#function-writing-1">Function Writing</a></li>
 </ul></li>
 </ul>
 </</ul>
@@ -238,9 +235,11 @@ minor changes/additions
 <img src="/static/practice_worksheets/fa21/qz04-question11.png" /></p></li>
 <li><p>Produce a memory diagram for the following code snippet, being sure to include its stack and output.<br />
 <img src="/static/practice_worksheets/fa21/qz04-question12.png" /></p></li>
+<li><p>Produce a memory diagram for the following code snippet, being sure to include its stack and output.<br />
+<img src="/static/practice_worksheets/fa21/qz03-question12.png" /></p></li>
 </ol>
 <h2 id="class-writing">Class Writing</h2>
-<ol start="16" type="1">
+<ol start="17" type="1">
 <li>This class is slightly challenging, but take it step by step! Create a <code>ChristmasTreeFarm</code> class with the following specifications:
 <ol type="a">
 <li>The <code>ChristmasTreeFarm</code> class should have one attribute: a <code>list[int]</code> named <code>plots</code>. This list will hold values that represent the size of the tree planted in each plot. If the value at an index of the list is 0, then the plot at that index is empty (does not have a tree). Any value other than 0 indicates that a tree is growing in that plot!</li>
@@ -252,10 +251,12 @@ minor changes/additions
 <li>The class should overload the addition operator. This method should be pure and work between two objects of type <code>ChristmasTreeFarm</code>. The method should return a new <code>ChristmasTreeFarm</code> object whose size is the sum of the given <code>ChristmasTreeFarm</code>s, and whose initial plantings are the sum of the number of planted trees in the given <code>ChristmasTreeFarm</code>s.</li>
 </ol></li>
 </ol>
-<h2 id="function-writing">Function Writing</h2>
-<p>17A. Write a function called <code>find_courses</code>. Given the following <code>Course</code> class definition, <code>find_courses</code> should take in a <code>list[Courses]</code> and a <code>str</code> prerequisite to search for. The function should return a list of the <code>names</code> of each Course whose <code>level</code> is 400+ and whose <code>prerequisites</code> list contains the given string.<br />
-<img src="/static/practice_worksheets/fa21/qz04-question14.png" /></p>
-<p>17B. Write a method called <code>is_valid_course</code> for the <code>Course</code> class. The method should take in a <code>str</code> prerequisite and return a <code>bool</code> that represents whether the course’s <code>level</code> is 400+ and if its <code>prerequisites</code> list contains the given string.</p>
+<!-- ## Function Writing
+
+17A. Write a function called `find_courses`. Given the following `Course` class definition, `find_courses` should take in a `list[Courses]` and a `str` prerequisite to search for. The function should return a list of the `names` of each Course whose `level` is 400+ and whose `prerequisites` list contains the given string.  
+![](/static/practice_worksheets/fa21/qz04-question14.png)  
+
+17B. Write a method called `is_valid_course` for the `Course` class. The method should take in a `str` prerequisite and return a `bool` that represents whether the course’s `level` is 400+ and if its `prerequisites` list contains the given string. -->
 <h1 id="solutions">Solutions</h1>
 <h2 id="conceptual-questions-1">Conceptual Questions</h2>
 <ol type="1">
@@ -277,14 +278,18 @@ minor changes/additions
 <ol start="14" type="1">
 <li><p><img src="/static/practice_worksheets/fa21/qz04-solution11.png" /></p></li>
 <li><p><img src="/static/practice_worksheets/fa21/qz04-solution12.png" /></p></li>
+<li><p><img src="/static/practice_worksheets/fa21/qz03-solution12.png" /></p></li>
 </ol>
-<h2 id="class-writing-1">Class Writing</h2>
-<ol start="16" type="1">
-<li><img src="/static/practice_worksheets/fa21/qz04-solution13.png" /> <img src="/static/practice_worksheets/sp22/qz03-solution16-from-fa21-sol13.png" /></li>
-</ol>
-<h2 id="function-writing-1">Function Writing</h2>
-<p>17A. <img src="/static/practice_worksheets/fa21/qz04-solution14A.png" /></p>
-<p>17B. <img src="/static/practice_worksheets/fa21/qz04-solution14B.png" /></p>
+<!-- ## Class Writing
+
+16. ![](/static/practice_worksheets/fa21/qz04-solution13.png)
+    ![](/static/practice_worksheets/sp22/qz03-solution16-from-fa21-sol13.png)
+
+## Function Writing
+
+17A. ![](/static/practice_worksheets/fa21/qz04-solution14A.png)
+
+17B. ![](/static/practice_worksheets/fa21/qz04-solution14B.png) -->
 </div>
 
     </div> 
