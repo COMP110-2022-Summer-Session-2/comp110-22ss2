@@ -7,8 +7,7 @@
             "date": "2022-06-20",
             "deadline": "None",
             "links": {
-                "Zoom Link (TODO)": "",
-                "Slides (TODO)": ""
+                "Zoom Link": "https://unc.zoom.us/j/96540274819"
             }
         },
         {
@@ -19,8 +18,9 @@
             "deadline": "2022-06-21",
             "links": {
                 "1. Read the Syllabus": "/resources/syllabus.html",
-                "2. Read Support Resources": "/support",
-                "3. Complete Lesson 01 Responses on Gradescope": "https://www.gradescope.com/"
+                "2. Read Quiz Expectations": "/resources/quiz-expectations.html",
+                "3. Read Support Resources": "/support",
+                "4. Complete Lesson 01 Responses on Gradescope": "https://www.gradescope.com/"
             }
         },
         {
