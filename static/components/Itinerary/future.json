@@ -110,8 +110,7 @@
             "links": {
                 "Watch Lessons Below": "",
                 "Complete Challenge Questions 00-03": "",
-                "Start EX01 - Chardle": "",
-                "What to expect for QZ00 on Friday": "/lessons/what_to_expect_qz00.html"
+                "Start EX01 - Chardle": ""
             }
         },
         {
@@ -168,7 +167,7 @@
         {
             "kind": "EX",
             "n": 1,
-            "title": "Chardle - Input, Variables, and Conditionals - TODO",
+            "title": "Chardle - Input, Variables, and Conditionals",
             "date": "2022-06-22",
             "deadline": "2022-06-23",
             "links": {
@@ -290,7 +289,7 @@
         {
             "kind": "LS",
             "n": 12,
-            "title": "EX02 Background Lesson: Advanced String Concepts (Due 1/31 at 11:59pm)",
+            "title": "EX02 Background Lesson: Advanced String Concepts",
             "date": "2022-06-24",
             "deadline": "2022-06-24",
             "links": {
