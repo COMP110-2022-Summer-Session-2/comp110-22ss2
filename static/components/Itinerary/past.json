@@ -40,16 +40,6 @@
     ],
     "2022-06-21": [
         {
-            "kind": "CL",
-            "n": 1,
-            "title": "Submit Gradescope Responses by 6/22",
-            "date": "2022-06-21",
-            "deadline": "None",
-            "links": {
-                "Watch Lessons 02 - 06 Below": ""
-            }
-        },
-        {
             "kind": "LS",
             "n": 2,
             "title": "Computer Systems - Processes, Shells, Kernels, and Hardware",
@@ -101,18 +91,6 @@
         }
     ],
     "2022-06-22": [
-        {
-            "kind": "CL",
-            "n": 2,
-            "title": "Submit Gradescope Responses by 6/23",
-            "date": "2022-06-22",
-            "deadline": "None",
-            "links": {
-                "Watch Lessons Below": "",
-                "Complete Challenge Questions 00-03": "",
-                "Start EX01 - Chardle": ""
-            }
-        },
         {
             "kind": "LS",
             "n": 7,
@@ -177,17 +155,6 @@
     ],
     "2022-06-23": [
         {
-            "kind": "CL",
-            "n": 3,
-            "title": "Submit Gradescope Responses by 6/24",
-            "date": "2022-06-23",
-            "deadline": "None",
-            "links": {
-                "Watch Lessons Below": "",
-                "Complete Challenge Questions 04-06": ""
-            }
-        },
-        {
             "kind": "LS",
             "n": 8,
             "title": "while Loop Statements",
@@ -242,18 +209,6 @@
                 "Review Question #3 - if-then-else Statements": "https://youtu.be/ruWo2zP9p4U",
                 "More Practice Questions": "/resources/practice/sp22/quiz0-worksheet.html",
                 "Covered Topics: Lessons 0-7, Challenge Questions 0-3 ": ""
-            }
-        },
-        {
-            "kind": "CL",
-            "n": 4,
-            "title": "Submit Gradescope Responses by 6/25",
-            "date": "2022-06-24",
-            "deadline": "None",
-            "links": {
-                "QZ00 - Computing Systems, Data Types, and Environment Diagrams": "",
-                "Watch Lessons Below": "",
-                "EX02 - One Shot Wordle": ""
             }
         },
         {

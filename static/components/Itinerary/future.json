@@ -2,18 +2,6 @@
     "2022-06-26": [],
     "2022-06-27": [
         {
-            "kind": "CL",
-            "n": 5,
-            "title": "Submit Gradescope Responses by 6/27",
-            "date": "2022-06-27",
-            "deadline": "None",
-            "links": {
-                "Watch Lessons LS12 (Not covered on QZ00)": "",
-                "Complete Challenge Questions 07-09": "",
-                "EX03 - Structured Wordle": ""
-            }
-        },
-        {
             "kind": "CQ",
             "n": 7,
             "title": "Nested While Loops",
@@ -70,18 +58,6 @@
     ],
     "2022-06-29": [
         {
-            "kind": "CL",
-            "n": 7,
-            "title": "Submit Gradescope Responses by 6/30",
-            "date": "2022-06-29",
-            "deadline": "None",
-            "links": {
-                "Watch Lessons 13 Below": "",
-                "Complete Challenge Questions 10-13": "",
-                "EX04 - Choose Your Own Adventure": ""
-            }
-        },
-        {
             "kind": "LS",
             "n": 13,
             "title": "Lists",
@@ -122,19 +98,9 @@
             }
         },
         {
-            "kind": "CQ",
-            "n": 13,
-            "title": "Follow Along Programming Lesson",
-            "date": "2022-06-29",
-            "deadline": "2022-06-29",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://youtu.be/n3FahRgDotQ"
-            }
-        },
-        {
             "kind": "EX",
             "n": 4,
-            "title": "Choose Your Own Adventure",
+            "title": "Choose Your Own Adventure (Due Thu 6/30)",
             "date": "2022-06-29",
             "deadline": "2022-06-30",
             "links": {
@@ -144,40 +110,8 @@
     ],
     "2022-06-30": [
         {
-            "kind": "CL",
-            "n": 8,
-            "title": "Submit Gradescope Responses by 7/01",
-            "date": "2022-06-30",
-            "deadline": "None",
-            "links": {
-                "Watch Lessons 14-15 Below": "",
-                "Complete Challenge Questions 14-16": "",
-                "EX05 - List Utility Functions": ""
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 14,
-            "title": "Unit Testing",
-            "date": "2022-06-30",
-            "deadline": "2022-06-30",
-            "links": {
-                "Watch Lesson": "https://youtu.be/VAdJybtia-4"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 15,
-            "title": "for..in Loops",
-            "date": "2022-06-30",
-            "deadline": "2022-06-30",
-            "links": {
-                "Watch Lesson": "https://youtu.be/YPfFCD_RGK8"
-            }
-        },
-        {
             "kind": "CQ",
-            "n": 14,
+            "n": 13,
             "title": "Scopes: Global vs. Local",
             "date": "2022-06-30",
             "deadline": "2022-06-30",
@@ -187,7 +121,7 @@
         },
         {
             "kind": "CQ",
-            "n": 15,
+            "n": 14,
             "title": "List References",
             "date": "2022-06-30",
             "deadline": "2022-06-30",
@@ -197,7 +131,7 @@
         },
         {
             "kind": "CQ",
-            "n": 16,
+            "n": 15,
             "title": "List References Continued",
             "date": "2022-06-30",
             "deadline": "2022-06-30",
@@ -206,9 +140,19 @@
             }
         },
         {
+            "kind": "CQ",
+            "n": 16,
+            "title": "Follow Along Programming Lesson",
+            "date": "2022-06-30",
+            "deadline": "2022-06-30",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://youtu.be/n3FahRgDotQ"
+            }
+        },
+        {
             "kind": "EX",
             "n": 5,
-            "title": "List Utility Functions",
+            "title": "List Utility Functions (Due 7/5)",
             "date": "2022-06-30",
             "deadline": "2022-07-05",
             "links": {
@@ -218,18 +162,18 @@
     ],
     "2022-07-01": [
         {
-            "kind": "CL",
-            "n": 9,
-            "title": "Submit Gradescope Responses by 7/02",
+            "kind": "LS",
+            "n": 14,
+            "title": "for..in Loops",
             "date": "2022-07-01",
-            "deadline": "None",
+            "deadline": "2022-07-01",
             "links": {
-                "Watch Lesson 16": "Complete Challenge Questions 17-19"
+                "Watch Lesson": "https://youtu.be/YPfFCD_RGK8"
             }
         },
         {
             "kind": "LS",
-            "n": 16,
+            "n": 15,
             "title": "Dictionaries",
             "date": "2022-07-01",
             "deadline": "2022-07-01",
@@ -245,26 +189,6 @@
             "deadline": "2022-07-01",
             "links": {
                 "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 18,
-            "title": "What's up with __name__?",
-            "date": "2022-07-01",
-            "deadline": "2022-07-01",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=drrrVHLv_Bg"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 19,
-            "title": "Importing Modules with Python",
-            "date": "2022-07-01",
-            "deadline": "2022-07-01",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=uTc39ZXStP0"
             }
         }
     ],
@@ -283,33 +207,33 @@
     ],
     "2022-07-06": [
         {
-            "kind": "CL",
-            "n": 11,
-            "title": "Submit Gradescope Responses by 7/07",
-            "date": "2022-07-06",
-            "deadline": "None",
-            "links": {
-                "Watch Lessons 17-18": "EX06 - Dictionaries"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 17,
-            "title": "Jupyter Notebooks",
-            "date": "2022-07-06",
-            "deadline": "2022-07-06",
-            "links": {
-                "Watch Lesson": "https://youtu.be/HJgX1WWC26A"
-            }
-        },
-        {
-            "kind": "LS",
+            "kind": "CQ",
             "n": 18,
-            "title": "Reading CSV Files",
+            "title": "What's up with __name__?",
             "date": "2022-07-06",
-            "deadline": "2022-07-06",
+            "deadline": "2022-07-01",
             "links": {
-                "Watch Lesson": "https://youtu.be/z4ax7ilh-RY"
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=drrrVHLv_Bg"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 19,
+            "title": "Importing Modules with Python",
+            "date": "2022-07-06",
+            "deadline": "2022-07-01",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=uTc39ZXStP0"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 16,
+            "title": "Unit Testing",
+            "date": "2022-07-06",
+            "deadline": "2022-06-30",
+            "links": {
+                "Watch Lesson": "https://youtu.be/VAdJybtia-4"
             }
         },
         {
@@ -325,14 +249,23 @@
     ],
     "2022-07-07": [
         {
-            "kind": "CL",
-            "n": 12,
-            "title": "Submit Gradescope Responses by 7/08",
+            "kind": "LS",
+            "n": 17,
+            "title": "Jupyter Notebooks",
             "date": "2022-07-07",
-            "deadline": "None",
+            "deadline": "2022-07-06",
             "links": {
-                "Watch Lesson 19": "",
-                "Complete Challenge Question 20": ""
+                "Watch Lesson": "https://youtu.be/HJgX1WWC26A"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 18,
+            "title": "Reading CSV Files",
+            "date": "2022-07-07",
+            "deadline": "2022-07-06",
+            "links": {
+                "Watch Lesson": "https://youtu.be/z4ax7ilh-RY"
             }
         },
         {
@@ -357,17 +290,6 @@
         }
     ],
     "2022-07-08": [
-        {
-            "kind": "CL",
-            "n": 13,
-            "title": "Submit Gradescope Responses by 7/09",
-            "date": "2022-07-08",
-            "deadline": "None",
-            "links": {
-                "Complete Challenge Question 21-23": "",
-                "EX07 - Data Wrangling - TODO": ""
-            }
-        },
         {
             "kind": "CQ",
             "n": 21,
@@ -412,16 +334,6 @@
     "2022-07-09": [],
     "2022-07-10": [],
     "2022-07-11": [
-        {
-            "kind": "CL",
-            "n": 14,
-            "title": "Submit Gradescope Responses by 7/12",
-            "date": "2022-07-11",
-            "deadline": "None",
-            "links": {
-                "Watch Lessons 20-22": ""
-            }
-        },
         {
             "kind": "LS",
             "n": 20,
