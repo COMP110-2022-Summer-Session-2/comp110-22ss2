@@ -1,61 +1,4 @@
 {
-    "2022-06-26": [],
-    "2022-06-27": [
-        {
-            "kind": "CQ",
-            "n": 7,
-            "title": "Nested While Loops",
-            "date": "2022-06-27",
-            "deadline": "2022-06-27",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 8,
-            "title": "Function Calls",
-            "date": "2022-06-27",
-            "deadline": "2022-06-27",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 9,
-            "title": "Function Calls, main, and f-strings",
-            "date": "2022-06-27",
-            "deadline": "2022-06-27",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=d7xamgcwV8U"
-            }
-        },
-        {
-            "kind": "EX",
-            "n": 3,
-            "title": "Structured Wordle",
-            "date": "2022-06-27",
-            "deadline": "2022-06-28",
-            "links": {
-                "Write-up": "/exercises/ex03.html"
-            }
-        }
-    ],
-    "2022-06-28": [
-        {
-            "kind": "QZ",
-            "n": 1,
-            "title": "Quiz 1",
-            "date": "2022-06-28",
-            "deadline": "2022-06-28",
-            "links": {
-                "Practice Questions": "/resources/practice/sp22/quiz1-worksheet.html",
-                "Practice Diagram #1": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U",
-                "Practice Diagram #2": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
-            }
-        }
-    ],
     "2022-06-29": [
         {
             "kind": "LS",
@@ -205,8 +148,90 @@
             "links": {}
         }
     ],
-    "2022-07-06": [],
-    "2022-07-07": [],
+    "2022-07-06": [
+        {
+            "kind": "CQ",
+            "n": 18,
+            "title": "What's up with __name__?",
+            "date": "2022-07-06",
+            "deadline": "2022-07-06",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=drrrVHLv_Bg"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 19,
+            "title": "Importing Modules with Python",
+            "date": "2022-07-06",
+            "deadline": "2022-07-06",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=uTc39ZXStP0"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 16,
+            "title": "Unit Testing",
+            "date": "2022-07-06",
+            "deadline": "2022-07-06",
+            "links": {
+                "Watch Lesson": "https://youtu.be/VAdJybtia-4"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 6,
+            "title": "Dictionaries",
+            "date": "2022-07-06",
+            "deadline": "2022-07-07",
+            "links": {
+                "Write-up": "/exercises/ex06.html"
+            }
+        }
+    ],
+    "2022-07-07": [
+        {
+            "kind": "LS",
+            "n": 17,
+            "title": "Jupyter Notebooks",
+            "date": "2022-07-07",
+            "deadline": "2022-07-06",
+            "links": {
+                "Watch Lesson": "https://youtu.be/HJgX1WWC26A"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 18,
+            "title": "Reading CSV Files",
+            "date": "2022-07-07",
+            "deadline": "2022-07-06",
+            "links": {
+                "Watch Lesson": "https://youtu.be/z4ax7ilh-RY"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 19,
+            "title": "Object Oriented Programming",
+            "date": "2022-07-07",
+            "deadline": "2022-07-07",
+            "links": {
+                "Watch Lesson": "https://youtu.be/wBhS8OXtM5Q"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 20,
+            "title": "Row-oriented vs. Column-oriented Data Structure Compositions",
+            "date": "2022-07-07",
+            "deadline": "2022-07-07",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
+            }
+        }
+    ],
     "2022-07-08": [],
     "2022-07-09": [],
     "2022-07-10": [],

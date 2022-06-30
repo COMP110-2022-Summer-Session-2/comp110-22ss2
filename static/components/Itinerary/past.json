@@ -96,7 +96,7 @@
             "n": 7,
             "title": "Conditional if-else Statements",
             "date": "2022-06-22",
-            "deadline": "2022-06-22",
+            "deadline": "2022-06-23",
             "links": {
                 "Watch Lesson": "https://youtu.be/JP5oFPHw5zc"
             }
@@ -106,7 +106,7 @@
             "n": 0,
             "title": "Practice with Numerical Expressions",
             "date": "2022-06-22",
-            "deadline": "2022-06-22",
+            "deadline": "2022-06-23",
             "links": {
                 "Watch and submit responses on Gradescope": "https://youtu.be/ISP-9wkrlyM"
             }
@@ -116,7 +116,7 @@
             "n": 1,
             "title": "Evaluating Relational Expressions",
             "date": "2022-06-22",
-            "deadline": "2022-06-22",
+            "deadline": "2022-06-23",
             "links": {
                 "Watch and submit responses on Gradescope": "https://youtu.be/g8_OERDtJ8c"
             }
@@ -124,7 +124,7 @@
         {
             "kind": "CQ",
             "n": 2,
-            "title": "Evaluating Relational Expressions",
+            "title": "User Input and Variables",
             "date": "2022-06-22",
             "deadline": "2022-06-22",
             "links": {
@@ -136,7 +136,7 @@
             "n": 3,
             "title": "Environment Diagrams",
             "date": "2022-06-22",
-            "deadline": "2022-06-22",
+            "deadline": "2022-06-23",
             "links": {
                 "Read instructions": "/lessons/cl02-variables.html",
                 "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=Vfmuwx3vYKg"
@@ -159,7 +159,7 @@
             "n": 8,
             "title": "while Loop Statements",
             "date": "2022-06-23",
-            "deadline": "2022-06-23",
+            "deadline": "2022-06-24",
             "links": {
                 "Watch Lesson": "https://www.youtube.com/watch?v=pvpgvYlyfUU"
             }
@@ -169,7 +169,7 @@
             "n": 4,
             "title": "Nested if/then/else",
             "date": "2022-06-23",
-            "deadline": "2022-06-23",
+            "deadline": "2022-06-24",
             "links": {
                 "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=ruWo2zP9p4U"
             }
@@ -179,7 +179,7 @@
             "n": 5,
             "title": "While Loops",
             "date": "2022-06-23",
-            "deadline": "2022-06-23",
+            "deadline": "2022-06-24",
             "links": {
                 "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=_Q9oBXDyciE"
             }
@@ -189,7 +189,7 @@
             "n": 6,
             "title": "Bool Operators",
             "date": "2022-06-23",
-            "deadline": "2022-06-23",
+            "deadline": "2022-06-24",
             "links": {
                 "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=HYq9Zoigoc4"
             }
@@ -216,7 +216,7 @@
             "n": 9,
             "title": "Introducing Functions",
             "date": "2022-06-24",
-            "deadline": "2022-06-24",
+            "deadline": "2022-06-25",
             "links": {
                 "Watch Lesson": "https://youtu.be/UheQNnstJE8"
             }
@@ -226,7 +226,7 @@
             "n": 10,
             "title": "Function Syntax",
             "date": "2022-06-24",
-            "deadline": "2022-06-24",
+            "deadline": "2022-06-25",
             "links": {
                 "Watch Lesson": "https://youtu.be/ihpN4LOqx8s"
             }
@@ -236,7 +236,7 @@
             "n": 11,
             "title": "Function Semantics",
             "date": "2022-06-24",
-            "deadline": "2022-06-24",
+            "deadline": "2022-06-25",
             "links": {
                 "Watch Lesson": "https://youtu.be/_swT3gKjDVg"
             }
@@ -246,7 +246,7 @@
             "n": 12,
             "title": "EX02 Background Lesson: Advanced String Concepts",
             "date": "2022-06-24",
-            "deadline": "2022-06-24",
+            "deadline": "2022-06-25",
             "links": {
                 "Read Background Lesson": "/lessons/strings.html"
             }
@@ -262,5 +262,62 @@
             }
         }
     ],
-    "2022-06-25": []
+    "2022-06-25": [],
+    "2022-06-26": [],
+    "2022-06-27": [
+        {
+            "kind": "CQ",
+            "n": 7,
+            "title": "Nested While Loops",
+            "date": "2022-06-27",
+            "deadline": "2022-06-27",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 8,
+            "title": "Function Calls",
+            "date": "2022-06-27",
+            "deadline": "2022-06-27",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 9,
+            "title": "Function Calls, main, and f-strings",
+            "date": "2022-06-27",
+            "deadline": "2022-06-27",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=d7xamgcwV8U"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 3,
+            "title": "Structured Wordle",
+            "date": "2022-06-27",
+            "deadline": "2022-06-28",
+            "links": {
+                "Write-up": "/exercises/ex03.html"
+            }
+        }
+    ],
+    "2022-06-28": [
+        {
+            "kind": "QZ",
+            "n": 1,
+            "title": "Quiz 1",
+            "date": "2022-06-28",
+            "deadline": "2022-06-28",
+            "links": {
+                "Practice Questions": "/resources/practice/sp22/quiz1-worksheet.html",
+                "Practice Diagram #1": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U",
+                "Practice Diagram #2": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
+            }
+        }
+    ]
 }
