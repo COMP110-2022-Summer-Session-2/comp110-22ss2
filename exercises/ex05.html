@@ -7,7 +7,7 @@
     <title> EX05 - `list` Utility Functions - COMP110 - 22S</title>
     <link rel="icon" type="image/png" href="/static/tabbrand.png" />
     <link rel="stylesheet" href="/static/bootstrap.min.css">
-    <link rel="stylesheet" href="/static/style.css?v=1656602410.9436738">
+    <link rel="stylesheet" href="/static/style.css?v=1656617299.1522388">
     <script src="/static/scripts/scroll-handler.js"></script>
     <script src="/static/scripts/sunset_sunrise.js"></script>
 
@@ -175,7 +175,7 @@
             </div>
 
     <div class="container">
-                <div class="content"><p>In this exercise you will build some list utility functions and get practice writing unit tests for them. Your function implementations may only make use of the built-in <code>len</code> function, and a <code>list</code> object’s methods <code>append</code> and <code>pop</code>.</p>
+                <div class="content"><p>In this exercise you will build some list utility functions. Your function implementations may only make use of the built-in <code>len</code> function, and a <code>list</code> object’s methods <code>append</code> and <code>pop</code>.</p>
 <p>Specifically off-limits in this exercise are the following. Making use of any of the following will result in no credit for the function you use them in:</p>
 <ul>
 <li>Cannot use other built-in function besides <code>len</code> - specifically not <code>max</code>, <code>min</code>, <code>slice</code></li>
@@ -188,41 +188,14 @@
 </ul>
 <p>Assignment Outline</p>
 <ul>
-<li><code>only_evens</code> – 30 Points Autograded
-<ul>
-<li>Unit Tests – 5 Points Autograded</li>
-</ul></li>
-<li><code>is_equal</code> – 35 Points Autograded
-<ul>
-<li>Unit Tests – 5 Points Autograded</li>
-</ul></li>
-<li><code>sub</code> – 15 Points Autograded
-<ul>
-<li>Unit Tests – 5 Points Autograded</li>
-</ul></li>
+<li><code>only_evens</code> – 35 Points Autograded</li>
+<li><code>is_equal</code> – 40 Points Autograded</li>
+<li><code>sub</code> – 20 Points Autograded</li>
 <li>Style, Linting, Typing – 20 Points Autograded</li>
 </ul>
-<p>Note: Even if your functions are not 100% correct or finished, you can get full credit for the unit tests if you set up a function skeleton and write your tests assuming correct functionality.</p>
-<h2 id="skeleton-code-and-testing-setup">0. Skeleton Code and Testing Setup</h2>
+<h2 id="skeleton-code">0. Skeleton Code</h2>
 <p>Create a new <strong>directory</strong> in <code>exercises</code> named <code>ex05</code>.</p>
 <p>Inside the <code>exercises/ex05</code> directory, create a file named <code>utils.py</code>. Add a docstring and establish an <code>__author__</code> variable to be assigned a string with the digits of your PID. This is where you will implement your function skeletons and implementations below.</p>
-<p>Unit Tests</p>
-<p>Also inside the <code>exercises/ex05</code> directory, create a file named <code>utils_test.py</code>. Add a docstring and establish an <code>__author__</code> in this file as well.</p>
-<p>For each function from below (<code>only_evens</code>, <code>is_equal</code>, <code>sub</code>), you are to define at least <strong>3x unit test</strong> functions. Remember that a unit test function starts with <code>test_</code>.</p>
-<p>The 3 unit tests should consist of:</p>
-<ul>
-<li>One edge case</li>
-<li>Two use cases</li>
-</ul>
-<p>Include descriptive function names and docstrings, so that it captures what is being tested.</p>
-<p>The command to run your tests is <code>python -m pytest exercises/ex05</code> or you can run them using the beaker tab in VSCode if it is working (do note the VSCode testing feature tends to be a bit flaky).</p>
-<p>Once you’re ready to import and begin testing your skeletons, you can add the following import lines, corresponding to the functions you have completed, to do so:</p>
-<pre class="plaintext"><code>from utils import only_evens
-from utils import is_equal
-from utils import sub</code></pre>
-<p>Once you have completed all functions, you can reduce the three import lines down into a single one for less redundancy in your testing code:</p>
-<pre class="plaintext"><code>from utils import only_evens, is_equal, sub</code></pre>
-<p>If your screen is large enough, you are encouraged to open these files side-by-side in VSCode by dragging the tab of one to the right side of VSCode so that it changes to a split pane view. Closing your file explorer can help give you additional horizontal space.</p>
 <h2 id="only_evens-30-points">1. <code>only_evens</code> – 30 Points</h2>
 <p>This is the first function you will write in <code>utils.py</code>. The other two functions will also be defined in this file.</p>
 <p>Given a <code>list</code> of <code>ints</code>, <code>only_evens</code> should return a <code>list</code> containing only the elements of the input list that were even. Example usage:</p>
