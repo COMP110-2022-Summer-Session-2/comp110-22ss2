@@ -553,7 +553,48 @@
             }
         }
     ],
-    "2022-07-08": [],
+    "2022-07-08": [
+        {
+            "kind": "CQ",
+            "n": 21,
+            "title": "Tracing a Basic OOP Example in Memory",
+            "date": "2022-07-08",
+            "deadline": "2022-07-08",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=WbDM7F_6PeQ"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 22,
+            "title": "Implementing a Pure Method and Mutable vs Immutable Operations",
+            "date": "2022-07-08",
+            "deadline": "2022-07-08",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=nl4zwaffDYI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 22,
+            "title": "Diagramming with Multiple Classes",
+            "date": "2022-07-08",
+            "deadline": "2022-07-08",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=yV1VjEx86fQ"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 7,
+            "title": "Data Wrangling",
+            "date": "2022-07-08",
+            "deadline": "2022-07-11",
+            "links": {
+                "Write-up": "/exercises/ex07.html"
+            }
+        }
+    ],
     "2022-07-09": [],
     "2022-07-10": [],
     "2022-07-11": [],
