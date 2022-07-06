@@ -1,39 +1,4 @@
 {
-    "2022-07-01": [
-        {
-            "kind": "LS",
-            "n": 14,
-            "title": "for..in Loops",
-            "date": "2022-07-01",
-            "deadline": "2022-07-01",
-            "links": {
-                "Watch Lesson": "https://youtu.be/YPfFCD_RGK8"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 15,
-            "title": "Dictionaries",
-            "date": "2022-07-01",
-            "deadline": "2022-07-01",
-            "links": {
-                "Watch Lesson": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 17,
-            "title": "Dictionary Practice",
-            "date": "2022-07-01",
-            "deadline": "2022-07-01",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
-            }
-        }
-    ],
-    "2022-07-02": [],
-    "2022-07-03": [],
-    "2022-07-04": [],
     "2022-07-05": [
         {
             "kind": "QZ",
@@ -80,7 +45,7 @@
             "n": 6,
             "title": "Dictionaries",
             "date": "2022-07-06",
-            "deadline": "2022-07-07",
+            "deadline": "2022-07-08",
             "links": {
                 "Write-up": "/exercises/ex06.html"
             }
@@ -92,7 +57,7 @@
             "n": 17,
             "title": "Jupyter Notebooks",
             "date": "2022-07-07",
-            "deadline": "2022-07-06",
+            "deadline": "2022-07-07",
             "links": {
                 "Watch Lesson": "https://youtu.be/HJgX1WWC26A"
             }
@@ -102,19 +67,9 @@
             "n": 18,
             "title": "Reading CSV Files",
             "date": "2022-07-07",
-            "deadline": "2022-07-06",
-            "links": {
-                "Watch Lesson": "https://youtu.be/z4ax7ilh-RY"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 19,
-            "title": "Object Oriented Programming",
-            "date": "2022-07-07",
             "deadline": "2022-07-07",
             "links": {
-                "Watch Lesson": "https://youtu.be/wBhS8OXtM5Q"
+                "Watch Lesson": "https://youtu.be/z4ax7ilh-RY"
             }
         },
         {
@@ -129,6 +84,16 @@
         }
     ],
     "2022-07-08": [
+        {
+            "kind": "LS",
+            "n": 19,
+            "title": "Object Oriented Programming",
+            "date": "2022-07-08",
+            "deadline": "2022-07-08",
+            "links": {
+                "Watch Lesson": "https://youtu.be/wBhS8OXtM5Q"
+            }
+        },
         {
             "kind": "CQ",
             "n": 21,
@@ -150,16 +115,6 @@
             }
         },
         {
-            "kind": "CQ",
-            "n": 22,
-            "title": "Diagramming with Multiple Classes",
-            "date": "2022-07-08",
-            "deadline": "2022-07-08",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=yV1VjEx86fQ"
-            }
-        },
-        {
             "kind": "EX",
             "n": 7,
             "title": "Data Wrangling",
@@ -172,7 +127,48 @@
     ],
     "2022-07-09": [],
     "2022-07-10": [],
-    "2022-07-11": [],
+    "2022-07-11": [
+        {
+            "kind": "CQ",
+            "n": 23,
+            "title": "Diagramming with Multiple Classes",
+            "date": "2022-07-11",
+            "deadline": "2022-07-11",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=yV1VjEx86fQ"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 20,
+            "title": "Magic Methods",
+            "date": "2022-07-11",
+            "deadline": "2022-07-11",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=yxDIEqm_K6c"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 21,
+            "title": "Operator Overloading",
+            "date": "2022-07-11",
+            "deadline": "2022-07-11",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=JJLnGL-cShU&feature=youtu.be"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 22,
+            "title": "Column-Based Filtering",
+            "date": "2022-07-11",
+            "deadline": "2022-07-11",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
+            }
+        }
+    ],
     "2022-07-12": [
         {
             "kind": "QZ",
@@ -183,15 +179,140 @@
             "links": {}
         }
     ],
-    "2022-07-13": [],
-    "2022-07-14": [],
-    "2022-07-15": [],
+    "2022-07-13": [
+        {
+            "kind": "LS",
+            "n": 23,
+            "title": "Getting Started with EX08",
+            "date": "2022-07-13",
+            "deadline": "2022-07-13",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=fmnMaN728RE&feature=youtu.be"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 24,
+            "title": "Special Parameters",
+            "date": "2022-07-13",
+            "deadline": "2022-07-13",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=7cOEibFopjQ"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 8,
+            "title": "Simpy",
+            "date": "2022-07-13",
+            "deadline": "2022-07-14",
+            "links": {
+                "Write-up": "/exercises/ex09.html"
+            }
+        }
+    ],
+    "2022-07-14": [
+        {
+            "kind": "CQ",
+            "n": 25,
+            "title": "Diagram #1",
+            "date": "2022-07-14",
+            "deadline": "2022-07-14",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=XFynblkouZ4"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 26,
+            "title": "Diagram #2",
+            "date": "2022-07-14",
+            "deadline": "2022-07-14",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=f1bnbit3Rlo"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 27,
+            "title": "Diagram #3",
+            "date": "2022-07-14",
+            "deadline": "2022-07-14",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=YfprfyavgzY"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 28,
+            "title": "Quiz Notes on Diagramming Construction when classes do not have constructors",
+            "date": "2022-07-14",
+            "deadline": "2022-07-14",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=IPtvrnz39hw"
+            }
+        }
+    ],
+    "2022-07-15": [
+        {
+            "kind": "LS",
+            "n": 24,
+            "title": "NumPy and Pandas",
+            "date": "2022-07-15",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch Lesson - TODO": ""
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 25,
+            "title": "Recursion Introduction",
+            "date": "2022-07-15",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=nVv7RDDtwdg"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 25,
+            "title": "NumPy and Pandas",
+            "date": "2022-07-15",
+            "deadline": "2022-07-15",
+            "links": {
+                "Lesson posted to Gradescope": ""
+            }
+        }
+    ],
     "2022-07-16": [],
     "2022-07-17": [],
     "2022-07-18": [],
-    "2022-07-19": [],
+    "2022-07-19": [
+        {
+            "kind": "EX",
+            "n": 9,
+            "title": "Recursion",
+            "date": "2022-07-19",
+            "deadline": "2022-07-21",
+            "links": {
+                "Write-up": "exercises/ex10.html"
+            }
+        }
+    ],
     "2022-07-20": [],
-    "2022-07-21": [],
+    "2022-07-21": [
+        {
+            "kind": "CL",
+            "n": 22,
+            "title": "LDOC!",
+            "date": "2022-07-21",
+            "deadline": "None",
+            "links": {
+                "LDOC!": ""
+            }
+        }
+    ],
     "2022-07-25": [
         {
             "kind": "FN",

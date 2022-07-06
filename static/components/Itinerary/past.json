@@ -416,12 +416,47 @@
         {
             "kind": "EX",
             "n": 5,
-            "title": "List Utility Functions (Due 7/5)",
+            "title": "List Utility Functions",
             "date": "2022-06-30",
-            "deadline": "2022-07-05",
+            "deadline": "2022-07-06",
             "links": {
                 "Write-up": "/exercises/ex05.html"
             }
         }
-    ]
+    ],
+    "2022-07-01": [
+        {
+            "kind": "LS",
+            "n": 14,
+            "title": "for..in Loops",
+            "date": "2022-07-01",
+            "deadline": "2022-07-01",
+            "links": {
+                "Watch Lesson": "https://youtu.be/YPfFCD_RGK8"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 15,
+            "title": "Dictionaries",
+            "date": "2022-07-01",
+            "deadline": "2022-07-01",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 17,
+            "title": "Dictionary Practice",
+            "date": "2022-07-01",
+            "deadline": "2022-07-01",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
+            }
+        }
+    ],
+    "2022-07-02": [],
+    "2022-07-03": [],
+    "2022-07-04": []
 }
