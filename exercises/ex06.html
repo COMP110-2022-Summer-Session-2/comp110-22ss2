@@ -7,7 +7,7 @@
     <title> EX06 - Dictionary Functions - COMP110 - 22S</title>
     <link rel="icon" type="image/png" href="/static/tabbrand.png" />
     <link rel="stylesheet" href="/static/bootstrap.min.css">
-    <link rel="stylesheet" href="/static/style.css?v=1657116118.3604882">
+    <link rel="stylesheet" href="/static/style.css?v=1657140346.9295866">
     <script src="/static/scripts/scroll-handler.js"></script>
     <script src="/static/scripts/sunset_sunrise.js"></script>
 
@@ -218,7 +218,8 @@
 {&#39;cat&#39;: &#39;apple&#39;}
 &gt;&gt;&gt; invert({&#39;kris&#39;: &#39;jordan&#39;, &#39;michael&#39;: &#39;jordan&#39;})
 KeyError</code></pre>
-<p>Similar to how you raised a <code>ValueError</code> in the <code>max</code> function for <code>list</code> utils, the syntax for raising a <code>KeyError</code> is: `raise KeyError(“error message of your choice here!”)</p>
+<p>Notice that in the final example, the result is a <code>KeyError</code> is raised. Error raising and handling is beyond our concerns right now, so what you need to know is that to raise a <code>KeyError</code> you can write a statement like this:</p>
+<p><code>raise KeyError("Duplicate Keys")</code></p>
 <h4 id="testing-for-keyerror"><em>Testing for KeyError:</em></h4>
 <p>You may optionally add a test for the invert function to check if the KeyError is being raised. Testing errors requires different syntax than testing normal outputs. If an error is raised then the function never actually returned anything, so we are unable to <code>assert</code> a return value. Instead try the following:</p>
 <ol type="1">
