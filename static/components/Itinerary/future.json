@@ -33,7 +33,7 @@
         {
             "kind": "EX",
             "n": 6,
-            "title": "Dictionaries",
+            "title": "Dictionaries (Due Friday, 07/08)",
             "date": "2022-07-06",
             "deadline": "2022-07-08",
             "links": {
@@ -87,7 +87,7 @@
         {
             "kind": "EX",
             "n": 7,
-            "title": "Data Wrangling",
+            "title": "Data Wrangling (Due Monday, 07/11)",
             "date": "2022-07-08",
             "deadline": "2022-07-11",
             "links": {
@@ -185,7 +185,7 @@
         {
             "kind": "CQ",
             "n": 24,
-            "title": "Special Parameters",
+            "title": "Special Parameters (Due Wednesday, 07/13)",
             "date": "2022-07-14",
             "deadline": "2022-07-13",
             "links": {
@@ -195,7 +195,7 @@
         {
             "kind": "EX",
             "n": 8,
-            "title": "Simpy",
+            "title": "Simpy (Due Saturday, 07/16)",
             "date": "2022-07-14",
             "deadline": "2022-07-16",
             "links": {
@@ -203,87 +203,13 @@
             }
         }
     ],
-    "2022-07-15": [
-        {
-            "kind": "CQ",
-            "n": 25,
-            "title": "Diagram #1",
-            "date": "2022-07-15",
-            "deadline": "2022-07-15",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=XFynblkouZ4"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 26,
-            "title": "Diagram #2",
-            "date": "2022-07-15",
-            "deadline": "2022-07-15",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=f1bnbit3Rlo"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 27,
-            "title": "Diagram #3",
-            "date": "2022-07-15",
-            "deadline": "2022-07-16",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=YfprfyavgzY"
-            }
-        }
-    ],
+    "2022-07-15": [],
     "2022-07-16": [],
     "2022-07-17": [],
-    "2022-07-18": [
-        {
-            "kind": "LS",
-            "n": 24,
-            "title": "Recursion Introduction",
-            "date": "2022-07-18",
-            "deadline": "2022-07-18",
-            "links": {
-                "Watch Lesson": "https://www.youtube.com/watch?v=nVv7RDDtwdg"
-            }
-        },
-        {
-            "kind": "EX",
-            "n": 9,
-            "title": "Recursion - Linked Lists",
-            "date": "2022-07-18",
-            "deadline": "2022-07-21",
-            "links": {
-                "Write-up": "exercises/ex10.html"
-            }
-        }
-    ],
+    "2022-07-18": [],
     "2022-07-19": [],
-    "2022-07-20": [
-        {
-            "kind": "LS",
-            "n": 26,
-            "title": "NumPy and Pandas",
-            "date": "2022-07-20",
-            "deadline": "2022-07-20",
-            "links": {
-                "Lesson posted to Gradescope": ""
-            }
-        }
-    ],
-    "2022-07-21": [
-        {
-            "kind": "CL",
-            "n": 22,
-            "title": "LDOC!",
-            "date": "2022-07-21",
-            "deadline": "None",
-            "links": {
-                "LDOC!": ""
-            }
-        }
-    ],
+    "2022-07-20": [],
+    "2022-07-21": [],
     "2022-07-25": [
         {
             "kind": "FN",
