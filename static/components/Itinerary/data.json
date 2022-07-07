@@ -14,7 +14,7 @@
         {
             "kind": "LS",
             "n": 1,
-            "title": "Syllabus and Support (Due Tuesday, 06/21)",
+            "title": "Syllabus and Support (Due Tuesday 6/21)",
             "date": "2022-06-20",
             "deadline": "2022-06-21",
             "links": {
@@ -27,7 +27,7 @@
         {
             "kind": "EX",
             "n": 0,
-            "title": "Hello World -  (Due Wednesday, 06/22)",
+            "title": "Hello World -  (Due Wednesday 6/22)",
             "date": "2022-06-20",
             "deadline": "2022-06-22",
             "links": {
@@ -42,7 +42,7 @@
         {
             "kind": "LS",
             "n": 2,
-            "title": "Computer Systems - Processes, Shells, Kernels, and Hardware (Due Wednesday, 06/22)",
+            "title": "Computer Systems - Processes, Shells, Kernels, and Hardware (Due Wednesday 6/22)",
             "date": "2022-06-21",
             "deadline": "2022-06-22",
             "links": {
@@ -52,7 +52,7 @@
         {
             "kind": "LS",
             "n": 3,
-            "title": "Programs, Languages, and Interpreters (Due Wednesday, 06/22)",
+            "title": "Programs, Languages, and Interpreters (Due Wednesday 6/22)",
             "date": "2022-06-21",
             "deadline": "2022-06-22",
             "links": {
@@ -62,7 +62,7 @@
         {
             "kind": "LS",
             "n": 4,
-            "title": "VSCode Walkthrough (Due Wednesday, 06/22)",
+            "title": "VSCode Walkthrough (Due Wednesday 6/22)",
             "date": "2022-06-21",
             "deadline": "2022-06-22",
             "links": {
@@ -72,7 +72,7 @@
         {
             "kind": "LS",
             "n": 5,
-            "title": "Objects and Data Types (Due Wednesday, 06/22)",
+            "title": "Objects and Data Types (Due Wednesday 6/22)",
             "date": "2022-06-21",
             "deadline": "2022-06-22",
             "links": {
@@ -82,7 +82,7 @@
         {
             "kind": "LS",
             "n": 6,
-            "title": "Expressions (Due Wednesday, 06/22)",
+            "title": "Expressions (Due Wednesday 6/22)",
             "date": "2022-06-21",
             "deadline": "2022-06-22",
             "links": {
@@ -94,7 +94,7 @@
         {
             "kind": "LS",
             "n": 7,
-            "title": "Conditional if-else Statements (Due Thursday, 06/23)",
+            "title": "Conditional if-else Statements (Due Thursday 6/23)",
             "date": "2022-06-22",
             "deadline": "2022-06-23",
             "links": {
@@ -104,7 +104,7 @@
         {
             "kind": "CQ",
             "n": 0,
-            "title": "Practice with Numerical Expressions (Due Thursday, 06/23)",
+            "title": "Practice with Numerical Expressions (Due Thursday 6/23)",
             "date": "2022-06-22",
             "deadline": "2022-06-23",
             "links": {
@@ -114,7 +114,7 @@
         {
             "kind": "CQ",
             "n": 1,
-            "title": "Evaluating Relational Expressions (Due Thursday, 06/23)",
+            "title": "Evaluating Relational Expressions (Due Thursday 6/23)",
             "date": "2022-06-22",
             "deadline": "2022-06-23",
             "links": {
@@ -134,7 +134,7 @@
         {
             "kind": "CQ",
             "n": 3,
-            "title": "Environment Diagrams (Due Thursday, 06/23)",
+            "title": "Environment Diagrams (Due Thursday 6/23)",
             "date": "2022-06-22",
             "deadline": "2022-06-23",
             "links": {
@@ -145,7 +145,7 @@
         {
             "kind": "EX",
             "n": 1,
-            "title": "Chardle - Input, Variables, and Conditionals (Due Thursday, 06/23)",
+            "title": "Chardle - Input, Variables, and Conditionals (Due Thursday 6/23)",
             "date": "2022-06-22",
             "deadline": "2022-06-23",
             "links": {
@@ -157,7 +157,7 @@
         {
             "kind": "LS",
             "n": 8,
-            "title": "while Loop Statements (Due Friday, 06/24)",
+            "title": "while Loop Statements (Due Friday 6/24)",
             "date": "2022-06-23",
             "deadline": "2022-06-24",
             "links": {
@@ -167,7 +167,7 @@
         {
             "kind": "CQ",
             "n": 4,
-            "title": "Nested if/then/else (Due Friday, 06/24)",
+            "title": "Nested if/then/else (Due Friday 6/24)",
             "date": "2022-06-23",
             "deadline": "2022-06-24",
             "links": {
@@ -177,7 +177,7 @@
         {
             "kind": "CQ",
             "n": 5,
-            "title": "While Loops (Due Friday, 06/24)",
+            "title": "While Loops (Due Friday 6/24)",
             "date": "2022-06-23",
             "deadline": "2022-06-24",
             "links": {
@@ -187,7 +187,7 @@
         {
             "kind": "CQ",
             "n": 6,
-            "title": "Bool Operators (Due Friday, 06/24)",
+            "title": "Bool Operators (Due Friday 6/24)",
             "date": "2022-06-23",
             "deadline": "2022-06-24",
             "links": {
@@ -214,7 +214,7 @@
         {
             "kind": "LS",
             "n": 9,
-            "title": "Introducing Functions (Due Saturday, 06/25)",
+            "title": "Introducing Functions (Due Saturday 6/25)",
             "date": "2022-06-24",
             "deadline": "2022-06-25",
             "links": {
@@ -224,7 +224,7 @@
         {
             "kind": "LS",
             "n": 10,
-            "title": "Function Syntax (Due Saturday, 06/25)",
+            "title": "Function Syntax (Due Saturday 6/25)",
             "date": "2022-06-24",
             "deadline": "2022-06-25",
             "links": {
@@ -234,7 +234,7 @@
         {
             "kind": "LS",
             "n": 11,
-            "title": "Function Semantics (Due Saturday, 06/25)",
+            "title": "Function Semantics (Due Saturday 6/25)",
             "date": "2022-06-24",
             "deadline": "2022-06-25",
             "links": {
@@ -244,7 +244,7 @@
         {
             "kind": "LS",
             "n": 12,
-            "title": "EX02 Background Lesson: Advanced String Concepts (Due Saturday, 06/25)",
+            "title": "EX02 Background Lesson: Advanced String Concepts (Due Saturday 6/25)",
             "date": "2022-06-24",
             "deadline": "2022-06-25",
             "links": {
@@ -254,7 +254,7 @@
         {
             "kind": "EX",
             "n": 2,
-            "title": "One-shot Wordle (Due Sunday, 06/26)",
+            "title": "One-shot Wordle (Due Sunday 6/26)",
             "date": "2022-06-24",
             "deadline": "2022-06-26",
             "links": {
@@ -298,7 +298,7 @@
         {
             "kind": "EX",
             "n": 3,
-            "title": "Structured Wordle (Due Tuesday, 06/28)",
+            "title": "Structured Wordle (Due Tuesday 6/28)",
             "date": "2022-06-27",
             "deadline": "2022-06-28",
             "links": {
@@ -364,7 +364,7 @@
         {
             "kind": "EX",
             "n": 4,
-            "title": "Choose Your Own Adventure (Due Thu 6/30) (Due Thursday, 06/30)",
+            "title": "Choose Your Own Adventure (Due Thursday 6/30)",
             "date": "2022-06-29",
             "deadline": "2022-06-30",
             "links": {
@@ -416,7 +416,7 @@
         {
             "kind": "EX",
             "n": 5,
-            "title": "List Utility Functions (Due Wednesday, 07/06)",
+            "title": "List Utility Functions (Due Wednesday 7/6)",
             "date": "2022-06-30",
             "deadline": "2022-07-06",
             "links": {
@@ -503,7 +503,7 @@
         {
             "kind": "EX",
             "n": 6,
-            "title": "Dictionaries (Due Friday, 07/08)",
+            "title": "Dictionaries (Due Friday 7/8)",
             "date": "2022-07-06",
             "deadline": "2022-07-08",
             "links": {
@@ -557,7 +557,7 @@
         {
             "kind": "EX",
             "n": 7,
-            "title": "Data Wrangling (Due Monday, 07/11)",
+            "title": "Data Wrangling (Due Monday 7/11)",
             "date": "2022-07-08",
             "deadline": "2022-07-11",
             "links": {
@@ -655,7 +655,7 @@
         {
             "kind": "CQ",
             "n": 24,
-            "title": "Special Parameters (Due Wednesday, 07/13)",
+            "title": "Special Parameters (Due Wednesday 7/13)",
             "date": "2022-07-14",
             "deadline": "2022-07-13",
             "links": {
@@ -665,7 +665,7 @@
         {
             "kind": "EX",
             "n": 8,
-            "title": "Simpy (Due Saturday, 07/16)",
+            "title": "Simpy (Due Saturday 7/16)",
             "date": "2022-07-14",
             "deadline": "2022-07-16",
             "links": {

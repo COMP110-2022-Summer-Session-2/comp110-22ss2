@@ -33,7 +33,7 @@
         {
             "kind": "EX",
             "n": 6,
-            "title": "Dictionaries (Due Friday, 07/08)",
+            "title": "Dictionaries (Due Friday 7/8)",
             "date": "2022-07-06",
             "deadline": "2022-07-08",
             "links": {
@@ -87,7 +87,7 @@
         {
             "kind": "EX",
             "n": 7,
-            "title": "Data Wrangling (Due Monday, 07/11)",
+            "title": "Data Wrangling (Due Monday 7/11)",
             "date": "2022-07-08",
             "deadline": "2022-07-11",
             "links": {
@@ -185,7 +185,7 @@
         {
             "kind": "CQ",
             "n": 24,
-            "title": "Special Parameters (Due Wednesday, 07/13)",
+            "title": "Special Parameters (Due Wednesday 7/13)",
             "date": "2022-07-14",
             "deadline": "2022-07-13",
             "links": {
@@ -195,7 +195,7 @@
         {
             "kind": "EX",
             "n": 8,
-            "title": "Simpy (Due Saturday, 07/16)",
+            "title": "Simpy (Due Saturday 7/16)",
             "date": "2022-07-14",
             "deadline": "2022-07-16",
             "links": {
