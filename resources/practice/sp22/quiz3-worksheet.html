@@ -7,7 +7,7 @@
     <title> Quiz 03 Practice - COMP110 - 22S</title>
     <link rel="icon" type="image/png" href="/static/tabbrand.png" />
     <link rel="stylesheet" href="/static/bootstrap.min.css">
-    <link rel="stylesheet" href="/static/style.css?v=1657545404.7931187">
+    <link rel="stylesheet" href="/static/style.css?v=1657566408.0458422">
     <script src="/static/scripts/scroll-handler.js"></script>
     <script src="/static/scripts/sunset_sunrise.js"></script>
 
@@ -193,7 +193,6 @@
 <ul>
 <li><a href="#conceptual-questions">Conceptual Questions</a></li>
 <li><a href="#memory-diagrams">Memory Diagrams</a></li>
-<li><a href="#class-writing">Class Writing</a></li>
 </ul></li>
 <li><a href="#solutions">Solutions</a>
 <ul>
@@ -238,19 +237,16 @@ minor changes/additions
 <li><p>Produce a memory diagram for the following code snippet, being sure to include its stack and output.<br />
 <img src="/static/practice_worksheets/fa21/qz03-question12.png" /></p></li>
 </ol>
-<h2 id="class-writing">Class Writing</h2>
-<ol start="17" type="1">
-<li>This class is slightly challenging, but take it step by step! Create a <code>ChristmasTreeFarm</code> class with the following specifications:
-<ol type="a">
-<li>The <code>ChristmasTreeFarm</code> class should have one attribute: a <code>list[int]</code> named <code>plots</code>. This list will hold values that represent the size of the tree planted in each plot. If the value at an index of the list is 0, then the plot at that index is empty (does not have a tree). Any value other than 0 indicates that a tree is growing in that plot!</li>
-<li>The constructor for the class should take two arguments, both of type int. The first parameter should be called <code>plots</code> and is an <code>int</code> representing the total number of plots in the farm. Notice that the attribute <code>plots</code> and the parameter <code>plots</code> for this constructor are different, and represent different things! The second parameter should be called <code>initial_planting</code> representing the amount of plots that should be planted initially. These initially planted plots will be trees of size 1. The constructor should initialize the <code>plots</code> attribute to an empty <code>list</code>, and then append <code>initial_planting</code> trees of size 1. After that, the constructor should fill the rest of the plots with zeroes to indicate that they are empty!</li>
-<li>The class should define a method called <code>plant</code>. This method should take an argument of type <code>int</code>, representing the plot index at which a tree should be planted. The tree should be size 1 when planted. If this method is called on a plot that already has a tree, the old tree will be uprooted and replaced with a new baby tree (size 1).</li>
-<li>The class should define a method called <code>growth</code>. This method should increase the size of each planted tree by 1. Remember that unplanted plots are represented by a 0 in the <code>plots</code> list.</li>
-<li>The class should define a method called <code>harvest</code>. This method should take an argument called <code>replant</code> of type <code>bool</code> that will determine whether this method replants trees (sets them to size 1 after harvest) or leaves the plots empty (sets them to size 0 after harvest). For our method, trees that are at least size 5 will be harvested. The method will return the count of how many trees were successfully harvested (type <code>int</code>).<br />
-</li>
-<li>The class should overload the addition operator. This method should be pure and work between two objects of type <code>ChristmasTreeFarm</code>. The method should return a new <code>ChristmasTreeFarm</code> object whose size is the sum of the given <code>ChristmasTreeFarm</code>s, and whose initial plantings are the sum of the number of planted trees in the given <code>ChristmasTreeFarm</code>s.</li>
-</ol></li>
-</ol>
+<!-- ## Class Writing
+
+17. This class is slightly challenging, but take it step by step! Create a `ChristmasTreeFarm` class with the following specifications:
+    a. The `ChristmasTreeFarm` class should have one attribute: a `list[int]` named `plots`.  This list will hold values that represent the size of the tree planted in each plot.  If the value at an index of the list is 0, then the plot at that index is empty (does not have a tree).  Any value other than 0 indicates that a tree is growing in that plot!
+    b. The constructor for the class should take two arguments, both of type int.  The first parameter should be called `plots` and is an `int` representing the total number of plots in the farm.  Notice that the attribute `plots` and the parameter `plots` for this constructor are different, and represent different things!  The second parameter should be called `initial_planting` representing the amount of plots that should be planted initially.  These initially planted plots will be trees of size 1.
+    The constructor should initialize the `plots` attribute to an empty `list`, and then append `initial_planting` trees of size 1.  After that, the constructor should fill the rest of the plots with zeroes to indicate that they are empty!
+    c. The class should define a method called `plant`.  This method should take an argument of type `int`, representing the plot index at which a tree should be planted. The tree should be size 1 when planted.  If this method is called on a plot that already has a tree, the old tree will be uprooted and replaced with a new baby tree (size 1).
+    d. The class should define a method called `growth`.  This method should increase the size of each planted tree by 1. Remember that unplanted plots are represented by a 0 in the `plots` list.
+    e. The class should define a method called `harvest`.  This method should take an argument called `replant` of type `bool` that will determine whether this method replants trees (sets them to size 1 after harvest) or leaves the plots empty (sets them to size 0 after harvest). For our method, trees that are at least size 5 will be harvested. The method will return the count of how many trees were successfully harvested (type `int`).  
+    f. The class should overload the addition operator.  This method should be pure and work between two objects of type `ChristmasTreeFarm`.  The method should return a new `ChristmasTreeFarm` object whose size is the sum of the given `ChristmasTreeFarm`s, and whose initial plantings are the sum of the number of planted trees in the given `ChristmasTreeFarm`s. -->
 <!-- ## Function Writing
 
 17A. Write a function called `find_courses`. Given the following `Course` class definition, `find_courses` should take in a `list[Courses]` and a `str` prerequisite to search for. The function should return a list of the `names` of each Course whose `level` is 400+ and whose `prerequisites` list contains the given string.  
