@@ -468,5 +468,102 @@
             "deadline": "2022-07-05",
             "links": {}
         }
-    ]
+    ],
+    "2022-07-06": [
+        {
+            "kind": "CQ",
+            "n": 18,
+            "title": "What's up with __name__?",
+            "date": "2022-07-06",
+            "deadline": "2022-07-06",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=drrrVHLv_Bg"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 19,
+            "title": "Importing Modules with Python",
+            "date": "2022-07-06",
+            "deadline": "2022-07-06",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=uTc39ZXStP0"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 16,
+            "title": "Unit Testing",
+            "date": "2022-07-06",
+            "deadline": "2022-07-06",
+            "links": {
+                "Watch Lesson": "https://youtu.be/VAdJybtia-4"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 6,
+            "title": "Dictionaries (Due Friday 7/8)",
+            "date": "2022-07-06",
+            "deadline": "2022-07-08",
+            "links": {
+                "Write-up": "/exercises/ex06.html"
+            }
+        }
+    ],
+    "2022-07-07": [
+        {
+            "kind": "LS",
+            "n": 17,
+            "title": "Jupyter Notebooks",
+            "date": "2022-07-07",
+            "deadline": "2022-07-07",
+            "links": {
+                "Watch Lesson": "https://youtu.be/HJgX1WWC26A"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 18,
+            "title": "Reading CSV Files",
+            "date": "2022-07-07",
+            "deadline": "2022-07-07",
+            "links": {
+                "Watch Lesson": "https://youtu.be/z4ax7ilh-RY"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 20,
+            "title": "Row-oriented vs. Column-oriented Data Structure Compositions",
+            "date": "2022-07-07",
+            "deadline": "2022-07-07",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
+            }
+        }
+    ],
+    "2022-07-08": [
+        {
+            "kind": "LS",
+            "n": 19,
+            "title": "Column-Based Filtering",
+            "date": "2022-07-08",
+            "deadline": "2022-07-08",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 7,
+            "title": "Data Wrangling (Due Monday 7/11)",
+            "date": "2022-07-08",
+            "deadline": "2022-07-11",
+            "links": {
+                "Write-up": "/exercises/ex07.html"
+            }
+        }
+    ],
+    "2022-07-09": []
 }

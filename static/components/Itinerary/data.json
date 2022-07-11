@@ -673,10 +673,62 @@
             }
         }
     ],
-    "2022-07-15": [],
+    "2022-07-15": [
+        {
+            "kind": "CQ",
+            "n": 25,
+            "title": "Diagram #1",
+            "date": "2022-07-15",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=XFynblkouZ4"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 26,
+            "title": "Diagram #2",
+            "date": "2022-07-15",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=f1bnbit3Rlo"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 27,
+            "title": "Diagram #3 (Due Saturday 7/16)",
+            "date": "2022-07-15",
+            "deadline": "2022-07-16",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=YfprfyavgzY"
+            }
+        }
+    ],
     "2022-07-16": [],
     "2022-07-17": [],
-    "2022-07-18": [],
+    "2022-07-18": [
+        {
+            "kind": "LS",
+            "n": 24,
+            "title": "Recursion Introduction",
+            "date": "2022-07-18",
+            "deadline": "2022-07-18",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=nVv7RDDtwdg"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 9,
+            "title": "Recursion - Linked Lists (Due Thursday 7/21)",
+            "date": "2022-07-18",
+            "deadline": "2022-07-21",
+            "links": {
+                "Write-up": "exercises/ex10.html"
+            }
+        }
+    ],
     "2022-07-19": [],
     "2022-07-20": [],
     "2022-07-21": [],
