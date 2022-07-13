@@ -1,27 +1,4 @@
 {
-    "2022-07-10": [],
-    "2022-07-11": [
-        {
-            "kind": "LS",
-            "n": 20,
-            "title": "Object Oriented Programming",
-            "date": "2022-07-11",
-            "deadline": "2022-07-11",
-            "links": {
-                "Watch Lesson": "https://youtu.be/wBhS8OXtM5Q"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 21,
-            "title": "Tracing a Basic OOP Example in Memory",
-            "date": "2022-07-11",
-            "deadline": "2022-07-11",
-            "links": {
-                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=WbDM7F_6PeQ"
-            }
-        }
-    ],
     "2022-07-12": [
         {
             "kind": "QZ",
@@ -163,7 +140,18 @@
         }
     ],
     "2022-07-19": [],
-    "2022-07-20": [],
+    "2022-07-20": [
+        {
+            "kind": "LS",
+            "n": 26,
+            "title": "NumPy and Pandas",
+            "date": "2022-07-20",
+            "deadline": "2022-07-20",
+            "links": {
+                "Lesson posted to Gradescope": ""
+            }
+        }
+    ],
     "2022-07-21": [],
     "2022-07-25": [
         {
