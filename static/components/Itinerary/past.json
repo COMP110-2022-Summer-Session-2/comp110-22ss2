@@ -588,5 +588,122 @@
                 "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=WbDM7F_6PeQ"
             }
         }
-    ]
+    ],
+    "2022-07-12": [
+        {
+            "kind": "QZ",
+            "n": 3,
+            "title": "Quiz 3",
+            "date": "2022-07-12",
+            "deadline": "2022-07-12",
+            "links": {}
+        }
+    ],
+    "2022-07-13": [
+        {
+            "kind": "CQ",
+            "n": 22,
+            "title": "Implementing a Pure Method and Mutable vs Immutable Operations",
+            "date": "2022-07-13",
+            "deadline": "2022-07-13",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=nl4zwaffDYI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 23,
+            "title": "Diagramming with Multiple Classes",
+            "date": "2022-07-13",
+            "deadline": "2022-07-13",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=yV1VjEx86fQ"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 21,
+            "title": "Magic Methods",
+            "date": "2022-07-13",
+            "deadline": "2022-07-13",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=yxDIEqm_K6c"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 22,
+            "title": "Operator Overloading",
+            "date": "2022-07-13",
+            "deadline": "2022-07-13",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=JJLnGL-cShU&feature=youtu.be"
+            }
+        }
+    ],
+    "2022-07-14": [
+        {
+            "kind": "LS",
+            "n": 23,
+            "title": "Getting Started with EX08",
+            "date": "2022-07-14",
+            "deadline": "2022-07-14",
+            "links": {
+                "Watch Lesson": "https://www.youtube.com/watch?v=fmnMaN728RE&feature=youtu.be"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 24,
+            "title": "Special Parameters",
+            "date": "2022-07-14",
+            "deadline": "2022-07-14",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=7cOEibFopjQ"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 8,
+            "title": "Simpy (Due Saturday 7/16)",
+            "date": "2022-07-14",
+            "deadline": "2022-07-16",
+            "links": {
+                "Write-up": "/exercises/ex09.html"
+            }
+        }
+    ],
+    "2022-07-15": [
+        {
+            "kind": "CQ",
+            "n": 25,
+            "title": "Diagram #1",
+            "date": "2022-07-15",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=XFynblkouZ4"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 26,
+            "title": "Diagram #2",
+            "date": "2022-07-15",
+            "deadline": "2022-07-15",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=f1bnbit3Rlo"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 27,
+            "title": "Diagram #3 (Due Saturday 7/16)",
+            "date": "2022-07-15",
+            "deadline": "2022-07-16",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=YfprfyavgzY"
+            }
+        }
+    ],
+    "2022-07-16": []
 }
