@@ -22,7 +22,38 @@
             }
         }
     ],
-    "2022-07-19": [],
+    "2022-07-19": [
+        {
+            "kind": "CQ",
+            "n": 28,
+            "title": "Diagram #1",
+            "date": "2022-07-19",
+            "deadline": "2022-07-19",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=tn5d3SxWWxc"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 29,
+            "title": "Diagram #2",
+            "date": "2022-07-19",
+            "deadline": "2022-07-19",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=qqJKcmPbgCY"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 30,
+            "title": "Diagram #3",
+            "date": "2022-07-19",
+            "deadline": "2022-07-19",
+            "links": {
+                "Watch and submit responses on Gradescope": "https://www.youtube.com/watch?v=SDZRv01oyVk"
+            }
+        }
+    ],
     "2022-07-20": [
         {
             "kind": "LS",
