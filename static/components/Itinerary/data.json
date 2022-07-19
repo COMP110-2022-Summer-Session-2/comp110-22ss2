@@ -687,7 +687,7 @@
         {
             "kind": "CQ",
             "n": 26,
-            "title": "Diagram #2",
+            "title": "Diagram #2 (Helps with EX09!)",
             "date": "2022-07-15",
             "deadline": "2022-07-15",
             "links": {
@@ -697,7 +697,7 @@
         {
             "kind": "CQ",
             "n": 27,
-            "title": "Diagram #3 (Due Saturday 7/16)",
+            "title": "Diagram #3 (Helps with EX09!) (Due Saturday 7/16)",
             "date": "2022-07-15",
             "deadline": "2022-07-16",
             "links": {
@@ -764,7 +764,7 @@
     "2022-07-20": [
         {
             "kind": "LS",
-            "n": 26,
+            "n": 25,
             "title": "NumPy and Pandas",
             "date": "2022-07-20",
             "deadline": "2022-07-20",
